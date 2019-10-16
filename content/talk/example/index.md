@@ -1,18 +1,18 @@
 ---
-title: Question Answering in Realistic Visual Environments: Challenges and Approaches
+title: Question Answering in Realistic Visual Environments - Challenges and Approaches
 event: Mila Tea Talk
 event_url: https://mila.quebec/en/cours/rdv/
 
-location: Source Themes HQ
+location: Mila
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 6666 St-Urbain, #200
+  city: Montreal
+  region: QC
+  postcode: H2S 3H1450
+  country: Canada
 
 summary: An alternative perspective on EQA; novel benchmark and VQA-style models.
-abstract: The Embodied Question Answering (EQA) and Interactive Question Answering (IQA) tasks were recently introduced as a means to study the capabilities of agents in rich, realistic 3D environments, requiring both navigation and reasoning to achieve success. Each of these skills typically needs a different approach, which should nevertheless be smoothly integrated with the rest of the system leveraged by the agent. However, initial approaches either suffer from potentially weaker performance than when using a language-only model or are preceded by additional hand-engineered steps. This talk will provide an overview of the existing work on this thread and describe in more detail our recent study published at BMVC 2019 and accepted at ViGIL 2019, [VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering](https://arxiv.org/abs/1908.04950). Here, we investigate the feasibility of EQA -type tasks by building a novel benchmark, which contains pairs of questions and videos generated in the House3D environment. While removing the navigation and action selection requirements from EQA , we increase the difficulty of the visual reasoning component via a much larger question space, tackling the sort of complex reasoning questions that make QA tasks challenging. By designing and evaluating several VQA -style models on the dataset, we establish a novel way of evaluating EQA feasibility given existing methods, while highlighting the difficulty of the problem even in the most ideal setting.
+abstract: "The Embodied Question Answering (EQA) and Interactive Question Answering (IQA) tasks were recently introduced as a means to study the capabilities of agents in rich, realistic 3D environments, requiring both navigation and reasoning to achieve success. Each of these skills typically needs a different approach, which should nevertheless be smoothly integrated with the rest of the system leveraged by the agent. However, initial approaches either suffer from potentially weaker performance than when using a language-only model or are preceded by additional hand-engineered steps. This talk will provide an overview of the existing work on this thread and describe in more detail our recent study published at BMVC 2019 and accepted at ViGIL 2019, [VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering](https://arxiv.org/abs/1908.04950). Here, we investigate the feasibility of EQA -type tasks by building a novel benchmark, which contains pairs of questions and videos generated in the House3D environment. While removing the navigation and action selection requirements from EQA , we increase the difficulty of the visual reasoning component via a much larger question space, tackling the sort of complex reasoning questions that make QA tasks challenging. By designing and evaluating several VQA -style models on the dataset, we establish a novel way of evaluating EQA feasibility given existing methods, while highlighting the difficulty of the problem even in the most ideal setting."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
