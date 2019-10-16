@@ -1,14 +1,14 @@
 ---
-title: Question Answering in Realistic Visual Environments - Challenges and Approaches
+title: "Question Answering in Realistic Visual Environments: Challenges and Approaches"
 event: Mila Tea Talk
 event_url: https://mila.quebec/en/cours/rdv/
 
 location: Mila
 address:
-  street: 6666 St-Urbain, #200
+  street: 6666 St-Urbain
   city: Montreal
   region: QC
-  postcode: H2S 3H1450
+  postcode: H2S 3H1
   country: Canada
 
 summary: An alternative perspective on EQA; novel benchmark and VQA-style models.
@@ -60,15 +60,3 @@ projects: []
 # Enable math on this page?
 math: true
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
