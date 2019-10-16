@@ -64,4 +64,15 @@ date_format = "Jan 2006"
   * _Machine Learning and Real-world Data_ (Lent '18)
   """
 
+[[experience]]
+  title = "Machine Learning Teaching Fellow"
+  company = "Cambridge Spark"
+  company_url = "https://cambridgespark.com/"
+  location = "Cambridge, UK"
+  date_start = "2017-05-01"
+  date_end = ""
+  description = """
+  Teaching the Neural Networks module from the Applied Data Science London Bootcamp to industry professionals.
+  """
+
 +++
