@@ -86,4 +86,38 @@ date_format = "Jan 2006"
   Undergraduate admissions interviews for the Computer Science Tripos, in Murray Edwards College (Dec 2016) and King's College (Dec 2017).
   """
 
+[[experience]]
+  title = "Software Engineer Intern"
+  company = "Facebook"
+  company_url = "https://www.facebook.com"
+  location = "London, UK"
+  date_start = "2016-06-25"
+  date_end = "2016-09-18"
+  description = """
+  LogDevice team. I optimised client operations on a RocksDB database and implemented a new API required by another team in Facebook.
+  """
+  
+[[experience]]
+  title = "Software Engineer Intern"
+  company = "Facebook"
+  company_url = "https://www.facebook.com"
+  location = "New York, USA"
+  date_start = "2015-07-15"
+  date_end = "2015-09-18"
+  description = """
+  iOS Product Infrastructure Team. I worked towards delivering a better experience for users of the Facebook iOS app. My project aimed to reduce the time taken to load content close to the area currently being viewed on screen, by improving the prioritization system for network requests.
+  """
+  
+
+[[experience]]
+  title = "Software Engineer Intern"
+  company = "Google"
+  company_url = "https://www.google.com"
+  location = "Zurich, Switzerland"
+  date_start = "2014-06-30"
+  date_end = "2014-09-15"
+  description = """
+  YouTube Uploads team. I added processing progress for video uploads on several YouTube pages, as the Upload page was the only one displaying this information.
+  """
+
 +++
