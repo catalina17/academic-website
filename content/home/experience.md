@@ -47,21 +47,11 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = ""
   description = """
-  MPhil in Advanced Computer Science research projects:
-  Felix Opolka, Representation Learning for Spatio-Temporal Graphs (2018-19) (85/100).
-  Aaron Solomon, Dynamic Temporal Analysis for Graph Structured Data (2018-19).
+  MPhil in Advanced Computer Science research projects: Felix Opolka, _Representation Learning for Spatio-Temporal Graphs_ (2018-19) (85/100), Aaron Solomon, _Dynamic Temporal Analysis for Graph Structured Data_ (2018-19).
   
-  Computer Science Tripos Part II projects:
-  Carlos Purves, The PlayStation Reinforcement Learning Environment (2018-19) (80/100).
-  Andrew Wells, Deep Learning for Music Recommendation (2017-18) (76/100).
+  Computer Science Tripos Part II projects: Carlos Purves, _The PlayStation Reinforcement Learning Environment_ (2018-19) (80/100), Andrew Wells, _Deep Learning for Music Recommendation_ (2017-18) (76/100).
   
-  Undergraduate courses for Murray Edwards, King's, and Queens' Colleges:
-  Artificial Intelligence (Easter '17, '19, '20)
-  Databases (Michaelmas '17, '18)
-  Discrete Mathematics (Michaelmas '17, '18, Lent '18, '19)
-  Foundations of Computer Science (Michaelmas '16, '17, '18)
-  Logic and Proof (Lent '17, '20)
-  Machine Learning and Real-world Data (Lent '18)
+  Undergraduate courses for Murray Edwards, King's, and Queens' Colleges: _AI_ (Easter '17, '19, '20), _Databases_ (Michaelmas '17, '18), _Discrete Mathematics_ (Michaelmas '17, '18, Lent '18, '19), _Foundations of Computer Science_ (Michaelmas '16, '17, '18), _Logic and Proof_ (Lent '17, '20), _Machine Learning and Real-world Data_ (Lent '18)
   """
 
 +++
