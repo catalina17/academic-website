@@ -48,20 +48,20 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   MPhil in Advanced Computer Science research projects:
-  * Felix Opolka, _Representation Learning for Spatio-Temporal Graphs_ (2018-19) (85/100)
-  * Aaron Solomon, _Dynamic Temporal Analysis for Graph Structured Data_ (2018-19).
+  Felix Opolka, _Representation Learning for Spatio-Temporal Graphs_ (2018-19) (85/100),
+  Aaron Solomon, _Dynamic Temporal Analysis for Graph Structured Data_ (2018-19).
   
   Computer Science Tripos Part II projects:
-  * Carlos Purves, _The PlayStation Reinforcement Learning Environment_ (2018-19) (80/100)
-  * Andrew Wells, _Deep Learning for Music Recommendation_ (2017-18) (76/100).
+  Carlos Purves, _The PlayStation Reinforcement Learning Environment_ (2018-19) (80/100),
+  Andrew Wells, _Deep Learning for Music Recommendation_ (2017-18) (76/100).
   
   Undergraduate courses for Murray Edwards, King's, and Queens' Colleges:
-  * _AI_ (Easter '17, '19, '20)
-  * _Databases_ (Michaelmas '17, '18)
-  * _Discrete Mathematics_ (Michaelmas '17, '18, Lent '18, '19)
-  * _Foundations of Computer Science_ (Michaelmas '16, '17, '18)
-  * _Logic and Proof_ (Lent '17, '20)
-  * _Machine Learning and Real-world Data_ (Lent '18)
+  _AI_ (Easter '17, '19, '20),
+  _Databases_ (Michaelmas '17, '18),
+  _Discrete Mathematics_ (Michaelmas '17, '18, Lent '18, '19),
+  _Foundations of Computer Science_ (Michaelmas '16, '17, '18),
+  _Logic and Proof_ (Lent '17, '20),
+  _Machine Learning and Real-world Data_ (Lent '18).
   """
 
 [[experience]]
@@ -73,6 +73,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Teaching the Neural Networks module from the Applied Data Science London Bootcamp to industry professionals.
+  """
+
+[[experience]]
+  title = "Admissions Interviewer"
+  company = "University of Cambridge"
+  company_url = "https://www.cam.ac.uk"
+  location = "Cambridge, UK"
+  date_start = "2016-12-01"
+  date_end = "2017-12-31"
+  description = """
+  Undergraduate admissions interviews for the Computer Science Tripos, in Murray Edwards College (Dec 2016) and King's College (Dec 2017).
   """
 
 +++
