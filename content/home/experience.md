@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-15"
   date_end = "2018-09-28"
   description = """
-  Worked with Aaron Courville on a visual reasoning project involving a novel benchmark and alternative perspective on EQA-style tasks.
+  Collaboration with Aaron Courville on a visual reasoning project involving a novel benchmark and alternative perspective on EQA-style tasks.
   """
 
 [[experience]]
