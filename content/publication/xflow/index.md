@@ -29,6 +29,7 @@ A shorter version was also presented at the Workshop on Computational Models for
 
 tags:
 - cross-modality
+- multimodal
 - audio
 - video
 - cross-connections
