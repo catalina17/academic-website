@@ -27,7 +27,14 @@ abstract: "Embodied Question Answering (EQA) is a recently proposed task, where 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- visual question answering
+- embodied question answering
+- video understanding
+- multimodal
+- FiLM
+- MAC
+- VideoNavQA
+- dataset
 featured: true
 
 links:
@@ -41,7 +48,7 @@ url_poster: https://github.com/catalina17/catalina17.github.io/blob/master/files
 # url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: "High-level overview of the VideoNavQA task and our proposed approach."
   focal_point: ""
