@@ -1,5 +1,5 @@
 ---
-title: "Towards Sparse Hierarchical Graph Classifiers"
+title: "The PlayStation Reinforcement Learning Environment (PSXLE)"
 authors:
 - Carlos Purves
 - admin
