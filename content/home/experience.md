@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   description = """
   Worked with Aaron Courville on a visual reasoning project involving a novel benchmark and alternative perspective on EQA-style tasks.
   """
-  
+
 [[experience]]
   title = "Supervisor"
   company = "University of Cambridge"
@@ -48,20 +48,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   MPhil in Advanced Computer Science research projects:
-  Felix Opolka, _Representation Learning for Spatio-Temporal Graphs_ (2018-19) (85/100),
-  Aaron Solomon, _Dynamic Temporal Analysis for Graph Structured Data_ (2018-19).
-  
+  _Representation Learning for Spatio-Temporal Graphs_ (Felix Opolka, 2018-19) (85/100), _Dynamic Temporal Analysis for Graph Structured Data_ (Aaron Solomon, 2018-19).
+
   Computer Science Tripos Part II projects:
-  Carlos Purves, _The PlayStation Reinforcement Learning Environment_ (2018-19) (80/100),
-  Andrew Wells, _Deep Learning for Music Recommendation_ (2017-18) (76/100).
-  
+  _The PlayStation Reinforcement Learning Environment_ (Carlos Purves, 2018-19) (80/100), _Deep Learning for Music Recommendation_ (Andrew Wells, 2017-18) (76/100).
+
   Undergraduate courses for Murray Edwards, King's, and Queens' Colleges:
-  _AI_ (Easter '17, '19, '20),
-  _Databases_ (Michaelmas '17, '18),
-  _Discrete Mathematics_ (Michaelmas '17, '18, Lent '18, '19),
-  _Foundations of Computer Science_ (Michaelmas '16, '17, '18),
-  _Logic and Proof_ (Lent '17, '20),
-  _Machine Learning and Real-world Data_ (Lent '18).
+  _AI_, _Databases_, _Discrete Mathematics_, _Foundations of Computer Science_,
+  _Logic and Proof_, _Machine Learning and Real-world Data_.
   """
 
 [[experience]]
@@ -96,7 +90,7 @@ date_format = "Jan 2006"
   description = """
   LogDevice team. I optimised client operations on a RocksDB database and implemented a new API required by another team in Facebook.
   """
-  
+
 [[experience]]
   title = "Software Engineer Intern"
   company = "Facebook"
@@ -107,7 +101,7 @@ date_format = "Jan 2006"
   description = """
   iOS Product Infrastructure Team. I worked towards delivering a better experience for users of the Facebook iOS app. My project aimed to reduce the time taken to load content close to the area currently being viewed on screen, by improving the prioritization system for network requests.
   """
-  
+
 
 [[experience]]
   title = "STEP Intern"
