@@ -21,8 +21,8 @@ organizations:
 bio: My research focuses on learning from complex-structured data in multimodal and relational settings.
 
 interests:
-- Multimodal Learning
-- Visual Question Answering
+- Cross-Modal Learning
+- Visually-Grounded Reasoning
 - Graph Neural Networks
 
 education:
