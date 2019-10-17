@@ -36,6 +36,7 @@ tags:
 - audiovisual classification
 - MFCCs
 - dataset
+- benchmark
 - Digits
 featured: false
 

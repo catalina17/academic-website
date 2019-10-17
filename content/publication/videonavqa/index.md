@@ -35,6 +35,7 @@ tags:
 - MAC
 - VideoNavQA
 - dataset
+- benchmark
 featured: true
 
 links:
