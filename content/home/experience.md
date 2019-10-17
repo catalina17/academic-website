@@ -110,7 +110,7 @@ date_format = "Jan 2006"
   
 
 [[experience]]
-  title = "Software Engineer Intern"
+  title = "STEP Intern"
   company = "Google"
   company_url = "https://www.google.com"
   location = "Zurich, Switzerland"
