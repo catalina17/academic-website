@@ -40,7 +40,7 @@ links:
   url: https://twitter.com/catalinacangea
 url_code: https://github.com/catalina17/VideoNavQA/
 url_pdf: https://arxiv.org/abs/1908.04950
-url_slides: ""
+url_slides: https://github.com/catalina17/academic-website/blob/master/content/talk/milateatalk/Question%20Answering%20in%20Realistic%20Visual%20Environments_%20Challenges%20and%20Approaches.pdf
 url_video: ""
 
 # Markdown Slides (optional).
