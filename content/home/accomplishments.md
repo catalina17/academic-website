@@ -65,7 +65,6 @@ date_format = "Jan 2006"
   organization_url = "https://www.murrayedwards.cam.ac.uk/"
   title = "Paula Browne Scholarship"
   date_start = "2013-10-01"
-  date_end = "2016-06-31"
   description = "Received the scholarship every year during my undergraduate degree. The scholarship was given to only one other student in my year."
 
 [[item]]
