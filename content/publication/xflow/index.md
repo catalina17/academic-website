@@ -4,11 +4,11 @@ authors:
 - admin
 - Petar Veličković
 - Pietro Liò
-date: "2019-04-01:00:00Z"
+date: "2019-11-10:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-04-01T00:00:00Z"
+publishDate: "2019-11-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,8 +17,8 @@ publishDate: "2019-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *IEEE Transactions on Neural Networks and Learning Systems*
-publication_short: To appear in *IEEE TNNLS*
+publication: Early Access in *IEEE Transactions on Neural Networks and Learning Systems*
+publication_short: *IEEE TNNLS* early access
 
 abstract: "In recent years, there have been numerous developments towards solving multimodal tasks, aiming to learn a stronger representation than through a single modality. Certain aspects of the data can be particularly useful in this case - for example, correlations in the space or time domain across modalities - but should be wisely exploited in order to benefit from their full predictive potential. We propose two deep learning architectures with multimodal cross-connections that allow for dataflow between several feature extractors (XFlow). Our models derive more interpretable features and achieve better performances than models which do not exchange representations, usefully exploiting correlations between audio and visual data, which have a different dimensionality and are nontrivially exchangeable. Our work improves on existing multimodal deep learning algorithms in two essential ways: (1) it presents a novel method for performing cross-modality (before features are learned from individual modalities) and (2) extends the previously proposed cross-connections which only transfer information between streams that process compatible data. Illustrating some of the representations learned by the connections, we analyse their contribution to the increase in discrimination ability and reveal their compatibility with a lip-reading network intermediate representation. We provide the research community with Digits, a new dataset consisting of three data types extracted from videos of people saying the digits 0-9. Results show that both cross-modal architectures outperform their baselines (by up to 11.5%) when evaluated on the AVletters, CUAVE and Digits datasets, achieving state-of-the-art results.
 
