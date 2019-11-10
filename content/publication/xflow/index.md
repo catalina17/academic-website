@@ -42,7 +42,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/pdf/1709.00572.pdf
+url_pdf: https://ieeexplore.ieee.org/document/8894404
 url_code: https://github.com/catalina17/XFlow/
 url_dataset: https://www.cl.cam.ac.uk/~ccc53/files/digits.tar.gz
 # url_project: ''
