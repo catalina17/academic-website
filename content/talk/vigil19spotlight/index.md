@@ -16,7 +16,7 @@ abstract: "This talk will be a short intro to our recent paper, [VideoNavQA: Bri
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-25T10:30:00Z"
+date: "2019-12-13T10:30:00Z"
 # date_end: "2019-10-25T11:30:00Z"
 all_day: false
 
