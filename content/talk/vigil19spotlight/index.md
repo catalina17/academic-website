@@ -39,7 +39,7 @@ links:
   name: Follow
   url: https://twitter.com/catalinacangea
 url_code: https://github.com/catalina17/VideoNavQA/
-url_pdf: https://arxiv.org/abs/1908.04950
+url_pdf: https://vigilworkshop.github.io/static/papers/9.pdf
 url_slides: 
 url_video: ""
 
