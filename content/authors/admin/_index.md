@@ -68,4 +68,8 @@ email: ""
 # - Visitors
 ---
 
-I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) of the [Department of Computer Science and Technology](https://cst.cam.ac.uk) (formerly known as the Computer Laboratory). My research focuses on learning from complex-structured data in multimodal and relational settings. I am supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). I was the chair of [women@CL](https://www.cst.cam.ac.uk/women) in 2018-19 and am deputy chair for 2019-20.
+I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) of the [Department of Computer Science and Technology](https://cst.cam.ac.uk) (formerly known as the Computer Laboratory), supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). My research focuses on learning from complex-structured data in multimodal and relational settings.
+
+Starting with the MPhil, I have been considerably involved in academic and department life - supervising several courses for three colleges, interviewing undergraduate applicants for Murray Edwards and King's colleges, supervising four undergraduate projects and co-supervising three master's research projects, being the chair of [women@CL](https://www.cst.cam.ac.uk/women) in 2018-19 and deputy chair for 2019-20.
+
+In my "free time", I row in King's College W1, play guitar/sing in a rock band and chase my favourite bands on tour.
