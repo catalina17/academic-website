@@ -70,6 +70,6 @@ email: ""
 
 I am a second-year PhD student at the [Department of Computer Science and Technology](https://cst.cam.ac.uk), University of Cambridge, supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). My research focuses on learning from complex-structured data in multimodal and relational settings.
 
-Ever since my MPhil year, I have been considerably involved in academic and department life - supervising several courses for three colleges, interviewing undergraduate applicants for Murray Edwards and King's colleges, supervising four undergraduate projects and co-supervising three master's research projects, being the chair of [women@CL](https://www.cst.cam.ac.uk/women) in 2018-19 and deputy chair for 2019-20.
+Ever since my MPhil year, I have been considerably involved in academic and department life - supervising several courses, interviewing undergraduate applicants, supervising undergraduate final year projects and master's research projects, being the chair of [women@CL](https://www.cst.cam.ac.uk/women) in 2018-19 and deputy chair for 2019-20.
 
 In my "free time", I row with the Women's First Boat in King's College, play guitar/sing in a rock band and chase my favourite bands on tour. 🎼
