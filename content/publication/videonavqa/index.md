@@ -46,7 +46,7 @@ url_poster: https://github.com/catalina17/catalina17.github.io/blob/master/files
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-# url_video: ''
+url_video: https://slideslive.com/38921907/visually-grounded-interaction-and-language-2
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
