@@ -4,11 +4,11 @@ authors:
 - Carlos Purves
 - admin
 - Petar Veličković
-date: "2019-10-01:00:00Z"
+date: "2019-12-14:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2019-12-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,8 +17,8 @@ publishDate: "2019-10-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear at the *Deep Reinforcement Learning Workshop (NeurIPS 2019)*
-publication_short: To appear at DeepRL (NeurIPS 2019)
+publication: Presented at the *Deep Reinforcement Learning Workshop (NeurIPS 2019)*
+publication_short: Presented at DeepRL (NeurIPS 2019)
 
 abstract: "We propose a new benchmark environment for evaluating Reinforcement Learning (RL) algorithms: the PlayStation Learning Environment (PSXLE), a PlayStation emulator modified to expose a simple control API that enables rich game-state representations. We argue that the PlayStation serves as a suitable progression for agent evaluation and propose a framework for such an evaluation by building an action-driven abstraction for a game with support for the OpenAI Gym interface. Finally, we demonstrate the use of this abstraction by running OpenAI Baselines."
 
@@ -36,8 +36,8 @@ tags:
 featured: false
 
 links:
-url_pdf: https://drive.google.com/file/d/1WoGzVq7_vq166Ux6Mpo048RvepE-fZVX/view
-# url_code: https://github.com/catalina17/XFlow/
+url_pdf: https://arxiv.org/abs/1912.06101
+url_code: https://github.com/carlospurves/psxle
 # url_dataset: https://www.cl.cam.ac.uk/~ccc53/files/digits.tar.gz
 # url_project: ''
 # url_slides: ''
