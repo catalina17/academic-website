@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = "NeurIPS 2019"
 #  organization_url = "https://www.cst.cam.ac.uk/"
-  title = "Gave a spotlight talk at ViGIL NeurIPS workshop on VideoNavQA!"
+  title = "Gave a [spotlight talk](https://slideslive.com/38921907/visually-grounded-interaction-and-language-2) at ViGIL workshop on [VideoNavQA](https://github.com/catalina17/VideoNavQA/)!"
   date_start = "2019-12-01"
 #  description = ""
 
