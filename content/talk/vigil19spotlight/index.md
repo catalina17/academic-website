@@ -40,8 +40,8 @@ links:
   url: https://twitter.com/catalinacangea
 url_code: https://github.com/catalina17/VideoNavQA/
 url_pdf: https://vigilworkshop.github.io/static/papers/9.pdf
-url_slides: 
-url_video: ""
+url_slides: https://docs.google.com/presentation/d/18WMwBZscpUmf26J-3aYp0HpqXF_9GPEYfUP64jX0T1I/edit#slide=id.p
+url_video: https://slideslive.com/38921907/visually-grounded-interaction-and-language-2
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
