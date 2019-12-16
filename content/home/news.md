@@ -19,17 +19,73 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "NeurIPS"
-#  organization_url = "https://www.cst.cam.ac.uk/"
+  organization = "Talk"
   title = "Gave a [spotlight talk](https://slideslive.com/38921907/visually-grounded-interaction-and-language-2) at ViGIL workshop on [VideoNavQA](https://github.com/catalina17/VideoNavQA/)!"
   date_start = "2019-12-01"
-#  description = ""
 
 [[item]]
-  organization = "NeurIPS"
-#  organization_url = "https://www.cst.cam.ac.uk/"
+  organization = "Publication"
   title = "Two ([1](https://vigilworkshop.github.io/static/papers/9.pdf), [2](https://drive.google.com/file/d/1blUvfVKbq9jftMRMsKtlZpbyLhdw9ynh/view)) workshop papers accepted at [ViGIL](https://vigilworkshop.github.io/) and [Deep RL](https://sites.google.com/view/deep-rl-workshop-neurips-2019/home) workshops."
   date_start = "2019-12-01"
-#  description = ""
+
+[[item]]
+  organization = "Award"
+  organization_url = "https://www.cst.cam.ac.uk/"
+  title = "Received the departmental [Wiseman Prize](https://www.cst.cam.ac.uk/wiseman-prize) (only six recipients this year!)"
+  date_start = "2019-11-01"
+
+[[item]]
+  organization = "Talk"
+  organization_url = "https://mila.quebec/"
+  title = "[Tea Talk](https://catalinacangea.netlify.com/talk/milateatalk/) at Mila on VideoNavQA, our new [study](https://arxiv.org/abs/1908.04950) and [benchmark](https://github.com/catalina17/VideoNavQA/)."
+  date_start = "2019-10-01"
+
+[[item]]
+  organization = "Teaching"
+  title = "Supervising two undergraduate projects and one master’s project this year!"
+  date_start = "2019-10-01"
+  
+[[item]]
+  organization = "Publication"
+  title = "One [paper](https://ieeexplore.ieee.org/document/8894404) accepted at the IEEE TNNLS journal."
+  date_start = "2019-10-01"
+  
+
+[[item]]
+  organization = "Code/dataset release"
+  title = "Released the [VideoNavQA benchmark](https://github.com/catalina17/VideoNavQA/)!"
+  date_start = "2019-08-01"
+
+[[item]]
+  organization = "Publication"
+  title = "One [paper](https://arxiv.org/abs/1908.04950) accepted at BMVC 2019."
+  date_start = "2019-08-01"
+  
+
+[[item]]
+  organization = "Work"
+  title = "Started the AI Residency at [X, the moonshot factory](https://x.company/)."
+  date_start = "2019-05-01"
+  
+[[item]]
+  organization = "Publication"
+  title = "Two workshop papers ([1](https://arxiv.org/abs/1904.06316), [2](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/12_aisg_iclr2019.pdf)) at ICLR 2019."
+  date_start = "2019-05-01"
+  
+[[item]]
+  organization = "Publication"
+  title = "Two workshop papers ([1](https://arxiv.org/abs/1811.01287), [2](https://arxiv.org/abs/1811.09714)) at NeurIPS 2018."
+  date_start = "2018-12-01"
+
+[[item]]
+  organization = "Teaching"
+  title = "Co-supervising one undergraduate and two master’s projects this year."
+  date_start = "2018-10-01"
+  
+
+[[item]]
+  organization = "Work"
+  title = "Started the research internship at [Mila](http://mila.quebec/), working with [Aaron Courville](https://mila.quebec/en/person/aaron-courville/)."
+  date_start = "2019-07-01"
 
 +++
