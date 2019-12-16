@@ -25,7 +25,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Publication"
-  title = "Two ([1](https://vigilworkshop.github.io/static/papers/9.pdf), [2](https://drive.google.com/file/d/1blUvfVKbq9jftMRMsKtlZpbyLhdw9ynh/view)) workshop papers accepted at [ViGIL](https://vigilworkshop.github.io/) and [Deep RL](https://sites.google.com/view/deep-rl-workshop-neurips-2019/home) workshops."
+  title = "Two ([1](https://vigilworkshop.github.io/static/papers/9.pdf), [2](https://drive.google.com/file/d/1blUvfVKbq9jftMRMsKtlZpbyLhdw9ynh/view)) papers accepted at NeurIPS 2019 workshops."
   date_start = "2019-12-01"
 
 [[item]]
@@ -69,12 +69,12 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Publication"
-  title = "Two workshop papers ([1](https://arxiv.org/abs/1904.06316), [2](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/12_aisg_iclr2019.pdf)) at ICLR 2019."
+  title = "Two papers ([1](https://arxiv.org/abs/1904.06316), [2](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/12_aisg_iclr2019.pdf)) at ICLR 2019 workshops."
   date_start = "2019-05-01"
   
 [[item]]
   organization = "Publication"
-  title = "Two workshop papers ([1](https://arxiv.org/abs/1811.01287), [2](https://arxiv.org/abs/1811.09714)) at NeurIPS 2018."
+  title = "Two papers ([1](https://arxiv.org/abs/1811.01287), [2](https://arxiv.org/abs/1811.09714)) accepted at NeurIPS 2018 workshops."
   date_start = "2018-12-01"
 
 [[item]]
