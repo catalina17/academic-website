@@ -86,6 +86,6 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Work"
   title = "Started the research internship at [Mila](http://mila.quebec/), working with [Aaron Courville](https://mila.quebec/en/person/aaron-courville/)."
-  date_start = "2019-07-01"
+  date_start = "2018-07-01"
 
 +++
