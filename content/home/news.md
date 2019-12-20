@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Talk"
-  title = "Gave a [spotlight talk](https://slideslive.com/38921907/visually-grounded-interaction-and-language-2) at ViGIL workshop on [VideoNavQA](https://github.com/catalina17/VideoNavQA/)!"
+  title = "Gave a [spotlight talk](https://vigilworkshop.github.io/#schedule) at the ViGIL workshop (NeurIPS 2019) on [VideoNavQA](https://github.com/catalina17/VideoNavQA/)!"
   date_start = "2019-12-01"
 
 [[item]]
