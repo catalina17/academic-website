@@ -3,9 +3,9 @@ title: "UCL CSML Talk"
 event: DeepMind CSML Seminar Series
 event_url: http://www.csml.ucl.ac.uk/events/401
 
-location: Roberts Engineering Building, University College London
+location: Malet Place Engineering Building 1.03
 address:
-  street: Torrington Place
+  street: 2 Malet Pl, Bloomsbury
   city: London
 #  region: BC
   postcode: WC1E 7JE
