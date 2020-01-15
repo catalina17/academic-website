@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "DeepMind"
   company_url = "https://deepmind.com/"
   location = "London, UK"
-  date_start = "2019-07-01"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
   Really exciting stuff!
