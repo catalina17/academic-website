@@ -1,5 +1,5 @@
 ---
-title: "Graph generation techniques"
+title: "Graph generation methods"
 event: R250 MPhil course - Graph Neural Networks
 event_url: https://www.cl.cam.ac.uk/teaching/1920/R250/
 
@@ -12,7 +12,7 @@ address:
   country: United Kingdom
 
 summary: A short intro to graph generation methods in recent ML research.
-abstract: "This short lecture will present three different approaches to graph generation from the recent ML literature, using a variety of generation techniques based on deep learning and probabilistic building blocks."
+abstract: "This short lecture will present three different approaches to graph generation from the ML literature, using a variety of techniques based on deep learning and probabilistic building blocks."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
