@@ -70,6 +70,8 @@ email: ""
 
 I am a third-year PhD student at the [Department of Computer Science and Technology](https://cst.cam.ac.uk), University of Cambridge, supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). My research focuses on multimodal and relational learning in challenging scenarios (for example, in the presence of an added temporal dimension or at large scale).
 
+My professional experience includes undergraduate Software Engineering internships at Google and Facebook, continuing with more research-oriented ones at [Mila](http://mila.quebec), [X](http://x.company) and [DeepMind](http://deepmind.com) (starting July 2020).
+
 Ever since my MPhil degree, I have been constantly involved in academic life - supervising several courses, interviewing undergraduate applicants, (co-)supervising undergraduate final year projects and master's research projects, being the chair of [women@CL](https://www.cst.cam.ac.uk/women) in 2018-19 and deputy chair for 2019-20.
 
 In my "free time", I row with the Women's First Boat in King's College, play guitar/sing in a rock band and chase my favourite bands on tour. 🎼
