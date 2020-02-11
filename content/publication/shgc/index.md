@@ -1,8 +1,8 @@
 ---
 title: "Towards Sparse Hierarchical Graph Classifiers"
 authors:
-- admin
-- Petar Veličković
+- Cătălina Cangea*
+- Petar Veličković*
 - Nikola Jovanović
 - Thomas Kipf
 - Pietro Liò
