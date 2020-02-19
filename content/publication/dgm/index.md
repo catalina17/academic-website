@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: Under review.
 publication_short: Under review.
 
-abstract: "Recent advancements in graph representation learning have led to the emergence of condensed encodings that capture the main properties of a graph. However, even though these abstract representations are powerful for downstream tasks, they are not equally suitable for visualisation purposes. In this work, we merge Mapper, an algorithm from the field of Topological Data Analysis (TDA), with the expressive power of Graph Neural Networks (GNNs) to produce hierarchical, topologically-grounded visualisations of graphs. These visualisations do not only help discern the structure of complex graphs but also provide a means of understanding the models applied to them for solving various tasks. We further demonstrate the suitability of Mapper as a topological framework for graph pooling by mathematically proving an equivalence with minCUT and DiffPool. Building upon this framework, we introduce a novel pooling algorithm based on PageRank, which obtains competitive results with state-of-the-art methods on graph classification benchmarks."
+abstract: "Recent advancements in graph representation learning have led to the emergence of condensed encodings that capture the main properties of a graph. However, even though these abstract representations are powerful for downstream tasks, they are not equally suitable for visualisation purposes. In this work, we merge Mapper, an algorithm from the field of Topological Data Analysis, with the expressive power of graph neural networks to produce hierarchical, topologically-grounded visualisations of graphs. These visualisations do not only help discern the structure of complex graphs, but also provide a means of understanding the models applied to them for solving various tasks. We further demonstrate the suitability of Mapper as a topological framework for graph pooling by showing an equivalence with soft-cluster assignment pooling methods (minCUT, DiffPool). Building upon this framework, we introduce a novel pooling algorithm based on PageRank, which obtains competitive results with state-of-the-art methods on graph classification benchmarks."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,9 +29,10 @@ tags:
 - graph representation learning
 - graph neural networks
 - topology
+- TDA
 - Mapper
 - graph classification
-- graph visualization
+- graph visualisation
 - DGI
 - pooling
 featured: true
