@@ -18,7 +18,7 @@ organizations:
   url: "http://www.cam.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on learning from complex-structured data in multimodal and relational settings.
+bio: My research focuses on learning representations of the world via multimodal and relational mechanisms.
 
 interests:
 - Cross-Modal Learning
@@ -68,7 +68,7 @@ email: ""
 # - Visitors
 ---
 
-I am a third-year PhD student at the [Department of Computer Science and Technology](https://cst.cam.ac.uk), University of Cambridge, supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). My research focuses on multimodal and relational learning in challenging scenarios (for example, in the presence of an added temporal dimension or at large scale).
+I am a third-year PhD student at the [Department of Computer Science and Technology](https://cst.cam.ac.uk), University of Cambridge, supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world.
 
 My professional experience includes undergraduate Software Engineering internships at Google and Facebook, continuing with more research-oriented ones at [Mila](http://mila.quebec), [X](http://x.company) and [DeepMind](http://deepmind.com) (starting July 2020).
 
