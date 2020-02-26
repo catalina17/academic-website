@@ -38,10 +38,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/catalinacangea
-  url_code: https://github.com/crisbodnar/dgm/
+  url_code: https://github.com/crisbodnar/dgm
   url_pdf: https://arxiv.org/pdf/2002.03864.pdf
-# url_slides: https://drive.google.com/file/d/10J1xw3L2WOqE5n7xX5uISlXZwy_r9ElS
-# url_video: "https://bluejeans.com/playback/s/Upy6gtNPO2HLTzQ1D9l87GqB37HxqvyvSM8Wg6nxBQCAAog6WFNXS0WJo8zTg8Zq"
+# url_slides: 
+# url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
