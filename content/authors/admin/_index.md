@@ -72,6 +72,6 @@ I am a third-year PhD student at the [Department of Computer Science and Technol
 
 My professional experience includes undergraduate Software Engineering internships at Google and Facebook, continuing with more research-oriented ones at [Mila](http://mila.quebec), [X](http://x.company) and [DeepMind](http://deepmind.com) (starting July 2020).
 
-Ever since my MPhil degree, I have been constantly involved in academic life - supervising several courses, interviewing undergraduate applicants, (co-)supervising undergraduate final year projects and master's research projects, being the chair of [women@CL](https://www.cst.cam.ac.uk/women) in 2018-19 and deputy chair for 2019-20.
+I also have a great passion for teaching and am constantly involved in academic and departmental activities - supervising undergraduate courses, final year projects and master's research projects, interviewing CS applicants, chairing [women@CL](https://www.cst.cam.ac.uk/women) and introducing professionals to ML concepts as a Cambridge Spark teaching fellow. 
 
 In my "free time", I row with the Women's First Boat in King's College, play guitar/sing in a rock band and chase my favourite bands on tour. 🎼
