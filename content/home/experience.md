@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-06"
   date_end = "2020-10-30"
   description = """
-  Really exciting stuff!
+  Will be working with [Piotr Mirowski](https://piotrmirowski.com/) and [Raia Hadsell](http://raiahadsell.com/index.html)!
   """
 
 [[experience]]
