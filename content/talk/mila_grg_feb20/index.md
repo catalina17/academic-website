@@ -40,7 +40,7 @@ links:
   url: https://twitter.com/catalinacangea
 url_code: https://github.com/crisbodnar/dgm/
 url_pdf: https://arxiv.org/pdf/2002.03864.pdf
-# url_slides: 
+url_slides: https://github.com/catalina17/academic-website/blob/master/content/talk/mila_grg_feb20/DGM_Presentation.pdf
 # url_video: 
 
 # Markdown Slides (optional).
