@@ -43,7 +43,7 @@ url_code: https://github.com/crisbodnar/dgm
 # url_dataset: 
 # url_poster: 
 # url_project: ''
-# url_slides: ''
+url_slides: https://github.com/catalina17/academic-website/blob/master/content/talk/mila_grg_feb20/DGM_Presentation.pdf
 # url_source: ''
 # url_video: 
 
