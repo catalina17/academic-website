@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Machine Learning
+    institution: University of Cambridge
+    year: 2021 (expected)
   - course: MPhil in Advanced Computer Science
     institution: University of Cambridge
     year: 2017
