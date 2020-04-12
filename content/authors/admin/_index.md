@@ -61,6 +61,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/user/11120080211
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
