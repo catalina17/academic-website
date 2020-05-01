@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Scientist Intern"
+  title = "(Remote) Research Scientist Intern"
   company = "DeepMind"
   company_url = "https://deepmind.com/"
   location = "London, UK"
