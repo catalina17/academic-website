@@ -21,7 +21,7 @@ organizations:
 bio: My research focuses on learning representations of the world via multimodal and relational mechanisms.
 
 interests:
-- Graph Neural Networks
+- Graph Representation Learning
 - Cross-Modal Learning
 - Visual Reasoning
 
