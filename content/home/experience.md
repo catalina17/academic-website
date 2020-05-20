@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "(Remote) Research Scientist Intern"
   company = "DeepMind"
@@ -37,6 +38,15 @@ date_format = "Jan 2006"
   date_end = "2019-08-30"
   description = """
   Worked on a real-world challenging problem, using and adapting state-of-the-art ML techniques.
+  """
+  
+ [[experience]]
+  title = "Reviewer"
+  company = "Conferences and workshops"
+  date_start = "2018-11-01"
+  date_end = ""
+  description = """
+  Reviewer for [ICML 2020](https://icml.cc/), [NeurIPS 2020](https://neurips.cc/), [BMVC 2020](https://britishmachinevisionassociation.github.io/bmvc) and [WiML 2018](https://wimlworkshop.org/2018/), [RLGM 2019](https://rlgm.github.io/pcom/), [LRGR 2019](https://graphreason.github.io/), [GRL 2019](https://grlearning.github.io/pcom/), [ViGIL 2019](https://vigilworkshop.github.io/), [GRL+ 2020](https://grlplus.github.io/).
   """
 
 [[experience]]
