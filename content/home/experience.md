@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   company_url = "https://www.relationrx.com/"
   location = "Cambridge, UK (remote)"
   date_start = "2020-06-04"
-  date_end = "2020-07-03"
+  date_end = ""
   description = """
   Developing (graph-)ML solutions to aid in drug development and repurposing efforts.
   """
