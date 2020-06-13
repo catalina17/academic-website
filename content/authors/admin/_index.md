@@ -77,7 +77,7 @@ email: ""
 
 I am a third-year PhD student at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world.
 
-My professional experience includes undergraduate Software Engineering internships at Google and Facebook, continuing with more research-oriented ones at [Mila](http://mila.quebec), [X](http://x.company) and [DeepMind](http://deepmind.com) (starting July 2020).
+My professional experience includes undergraduate Software Engineering internships at Google and Facebook, continuing with more research-oriented ones at [Mila](http://mila.quebec), [X](http://x.company) and [DeepMind](http://deepmind.com) (starting July 2020). Currently, I am also a graph ML consultant for [Relation Therapeutics](https://www.relationrx.com/).
 
 I also have a great passion for teaching and am constantly involved in academic and departmental activities - supervising undergraduate courses, final year projects and master's research projects (+200h and ~60 students), interviewing CS applicants, chairing [women@CL](https://www.cst.cam.ac.uk/women) and introducing professionals to ML concepts as a Cambridge Spark teaching fellow. 
 
