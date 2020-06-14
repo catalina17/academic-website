@@ -20,8 +20,8 @@ publishDate: "2019-04-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Presented at the _Representation Learning on Graphs and Manifolds (RLGM) Workshop_ at the _7th International Conference on Learning Representations (ICLR 2019)_
-publication_short: Presented at the RLGM workshop (ICLR 2019)
+publication: *Representation Learning on Graphs and Manifolds (RLGM) Workshop (ICLR 2019)*
+publication_short: RLGM Workshop (ICLR 2019)
 
 abstract: "Spatio-temporal graphs such as traffic networks or gene regulatory systems present challenges for the existing deep learning methods due to the complexity of structural changes over time. To address these issues, we introduce Spatio-Temporal Deep Graph Infomax (STDGI) - a fully unsupervised node representation learning approach based on mutual information maximization that exploits both the temporal and spatial dynamics of the graph. Our model tackles the challenging task of node-level regression by training embeddings to maximize the mutual information between patches of the graph, at any given time step, and between features of the central nodes of patches, in the future. We demonstrate through experiments and qualitative studies that the learned representations can successfully encode relevant information about the input graph and improve the predictive performance of spatio-temporal auto-regressive forecasting models."
 
