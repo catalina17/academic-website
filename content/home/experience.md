@@ -94,7 +94,7 @@ date_format = "Jan 2006"
   company = "Cambridge Spark"
   company_url = "https://cambridgespark.com/"
   location = "Cambridge, UK"
-  date_start = "2017-05-01"
+  date_start = "2018-05-01"
   date_end = ""
   description = """
   Teaching the Neural Networks module from the Applied Data Science London Bootcamp to industry professionals.
