@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Nanum"
+
+# Optional Google font URL
+google_fonts = "Lato:400,700|Merriweather|Nanum+Myeongjo"
+
+# Font families
+heading_font = "Lato"
+body_font = "Merriweather"
+nav_font = "Lato"
+mono_font = "Nanum Myeongjo"
