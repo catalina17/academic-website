@@ -17,8 +17,8 @@ publishDate: "2019-12-14T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Presented at the *Deep Reinforcement Learning Workshop (NeurIPS 2019)*
-publication_short: Presented at DeepRL (NeurIPS 2019)
+publication: *Deep Reinforcement Learning Workshop (NeurIPS 2019)*
+publication_short: DeepRL Workshop (NeurIPS 2019)
 
 abstract: "We propose a new benchmark environment for evaluating Reinforcement Learning (RL) algorithms: the PlayStation Learning Environment (PSXLE), a PlayStation emulator modified to expose a simple control API that enables rich game-state representations. We argue that the PlayStation serves as a suitable progression for agent evaluation and propose a framework for such an evaluation by building an action-driven abstraction for a game with support for the OpenAI Gym interface. Finally, we demonstrate the use of this abstraction by running OpenAI Baselines."
 
