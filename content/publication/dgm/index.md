@@ -18,7 +18,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Under review
-publication_short: Under review
+publication_short: _Under review_
 
 abstract: "Recent advancements in graph representation learning have led to the emergence of condensed encodings that capture the main properties of a graph. However, even though these abstract representations are powerful for downstream tasks, they are not equally suitable for visualisation purposes. In this work, we merge Mapper, an algorithm from the field of Topological Data Analysis, with the expressive power of graph neural networks to produce hierarchical, topologically-grounded visualisations of graphs. These visualisations do not only help discern the structure of complex graphs, but also provide a means of understanding the models applied to them for solving various tasks. We further demonstrate the suitability of Mapper as a topological framework for graph pooling by showing an equivalence with soft-cluster assignment pooling methods (minCUT, DiffPool). Building upon this framework, we introduce a novel pooling algorithm based on PageRank, which obtains competitive results with state-of-the-art methods on graph classification benchmarks."
 
