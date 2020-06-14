@@ -2,10 +2,10 @@
 name = "Nanum"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Merriweather|Cormorant+Garamond:500"
+google_fonts = "Lato:400,700|Merriweather|News+Cycle"
 
 # Font families
 heading_font = "Lato"
 body_font = "Merriweather"
 nav_font = "Lato"
-mono_font = "Cormorant Garamond"
+mono_font = "News Cycle"
