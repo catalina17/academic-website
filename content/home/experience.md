@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   MPhil in Advanced Computer Science research projects:
   _Representation Learning for Spatio-Temporal Graphs_ (Felix Opolka, 2018-19) (85/100), _Dynamic Temporal Analysis for Graph Structured Data_ (Aaron Solomon, 2018-19).
 
-  Computer Science Tripos Part II projects: _Benchmarking Graph Neural Networks using Wikipedia_ (Péter Mernyei, 2019-20), _The PlayStation Reinforcement Learning Environment_ (Carlos Purves, 2018-19) (80/100), _Deep Learning for Music Recommendation_ (Andrew Wells, 2017-18) (76/100).
+  Computer Science Tripos Part II projects: _Multimodal Relational Reasoning for Visual Question Answering_ (Aaron Tjandra, 2019-20), _Benchmarking Graph Neural Networks using Wikipedia_ (Péter Mernyei, 2019-20), _The PlayStation Reinforcement Learning Environment_ (Carlos Purves, 2018-19) (80/100), _Deep Learning for Music Recommendation_ (Andrew Wells, 2017-18) (76/100).
 
   Undergraduate courses for Murray Edwards, King's, and Queens' Colleges:
   _AI_, _Databases_, _Discrete Mathematics_, _Foundations of Computer Science_,
