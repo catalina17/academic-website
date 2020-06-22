@@ -79,8 +79,8 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = ""
   description = """
-  MPhil in Advanced Computer Science research projects:
-  _Representation Learning for Spatio-Temporal Graphs_ (Felix Opolka, 2018-19) (85/100), _Dynamic Temporal Analysis for Graph Structured Data_ (Aaron Solomon, 2018-19).
+  Master's research projects:
+  _Representation Learning for Spatio-Temporal Graphs_ (Felix Opolka, 2018-19) (85/100), _Dynamic Temporal Analysis for Graph Structured Data_ (Aaron Solomon, 2018-19), _Goal-Conditioned Reinforcement Learning in the Presence of an Adversary_ (Carlos Purves, 2019-20) (87/100)
 
   Computer Science Tripos Part II projects: _Multimodal Relational Reasoning for Visual Question Answering_ (Aaron Tjandra, 2019-20), _Benchmarking Graph Neural Networks using Wikipedia_ (Péter Mernyei, 2019-20), _The PlayStation Reinforcement Learning Environment_ (Carlos Purves, 2018-19) (80/100), _Deep Learning for Music Recommendation_ (Andrew Wells, 2017-18) (76/100).
 
