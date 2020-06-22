@@ -24,6 +24,21 @@ date_format = "Jan 2006"
   title = "Wiseman Award"
   date_start = "2019-10-01"
   description = "The award acknowledges those who make a commendable contribution to the work of the Department, going above and beyond the requirements of their course or project."
+  
+[[item]]
+  organization = "Women in Machine Learning"
+  organization_url = "https://wimlworkshop.org/2018/"
+  title = "Travel Grant"
+  date_start = "2018-10-01"
+  description = "Partial funding for travelling to NeurIPS 2018 and presenting my poster at the WiML workshop."
+  
+
+[[item]]
+  organization = "Machine Learning for Health"
+  organization_url = "https://ml4health.github.io/2018/index.html"
+  title = "Travel Grant"
+  date_start = "2018-11-01"
+  description = "Travel award to attend the Machine Learning for Health (ML4H) Workshop at NeurIPS 2018."
 
 [[item]]
   organization = "Darwin College, University of Cambridge"
