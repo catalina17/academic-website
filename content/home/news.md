@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Talk"
+  organization = "Teaching"
   title = "Péter Mernyei, whom I supervised this year, got one of the three contributed talks on Novel Applications at the ICML [GRL+ workshop](https://grlplus.github.io/schedule/)! He will be presenting his undergraduate project, _Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks_."
   date_start = "2020-06-22"
 
