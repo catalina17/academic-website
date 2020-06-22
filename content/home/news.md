@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Talk"
-  title = "Péter Mernyei, an undergraduate student I supervised this year, got one of the three _contributed talks_ on Novel Applications at the ICML [GRL+ workshop](https://grlplus.github.io/schedule/)! He created _Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks_ for his final-year project. More details to follow shortly :)."
+  title = "Péter Mernyei, whom I supervised this year, got one of the three contributed talks on Novel Applications at the ICML [GRL+ workshop](https://grlplus.github.io/schedule/)! He will be presenting his final-year project, _Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks_."
   date_start = "2020-06-22"
 
 [[item]]
