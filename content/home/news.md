@@ -20,6 +20,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Talk"
+  title = "Péter Mernyei, an undergraduate student I supervised this year, got one of the three _contributed talks_ on Novel Applications at the ICML [GRL+ workshop](https://grlplus.github.io/schedule/)! He created _Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks_ for his final-year project. More details to follow shortly :)."
+  date_start = "2020-06-22"
+
+[[item]]
+  organization = "Talk"
   title = "Gave a [spotlight talk](https://vigilworkshop.github.io/#schedule) at the NeurIPS ViGIL workshop on [VideoNavQA](https://github.com/catalina17/VideoNavQA/)!"
   date_start = "2019-12-01"
 
