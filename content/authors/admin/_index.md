@@ -18,7 +18,7 @@ organizations:
   url: "http://www.cam.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on learning representations of the world via multimodal and relational mechanisms.
+bio: PhD student in ML focusing on learning multimodal and graph-structured representations of the world.
 
 interests:
 - Graph Representation Learning
