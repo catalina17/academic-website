@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = ""
   description = """
-  Master's research projects: _Goal-Conditioned Reinforcement Learning in the Presence of an Adversary_ (Carlos Purves, 2019-20) (87/100), _Representation Learning for Spatio-Temporal Graphs_ (Felix Opolka, 2018-19) (85/100), _Dynamic Temporal Analysis for Graph Structured Data_ (Aaron Solomon, 2018-19) (both presented at [ICLR RLGM](https://rlgm.github.io/papers/))
+  Master's research projects: _Goal-Conditioned Reinforcement Learning in the Presence of an Adversary_ (Carlos Purves, 2019-20) (87/100), _Representation Learning for Spatio-Temporal Graphs_ (Felix Opolka, 2018-19) (85/100) (presented at [ICLR RLGM](https://rlgm.github.io/papers/)), _Dynamic Temporal Analysis for Graph Structured Data_ (Aaron Solomon, 2018-19) (presented at [ICLR RLGM](https://rlgm.github.io/papers/))
 
   Computer Science Tripos Part II projects: _Benchmarking Graph Neural Networks using Wikipedia_ (Péter Mernyei, 2019-20, to be introduced during a contributed talk on Novel Applications at [ICML GRL+](https://grlplus.github.io/schedule/)), _Multimodal Relational Reasoning for Visual Question Answering_ (Aaron Tjandra, 2019-20), _The PlayStation Reinforcement Learning Environment_ (Carlos Purves, 2018-19) (80/100) (presented at [NeurIPS Deep RL](https://sites.google.com/view/deep-rl-workshop-neurips-2019/)), _Deep Learning for Music Recommendation_ (Andrew Wells, 2017-18) (76/100).
 
