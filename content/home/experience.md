@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://deepmind.com/"
   location = "Cambridge, UK (remote)"
   date_start = "2020-07-06"
-  date_end = "2020-10-30"
+  date_end = ""
   description = """
   Will be working with [Piotr Mirowski](https://piotrmirowski.com/) and [Raia Hadsell](http://raiahadsell.com/index.html)!
   """
