@@ -16,8 +16,8 @@ publishDate: "2020-07-07T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Graph Representation Learning and Beyond Workshop (ICML 2020)
-publication_short: _GRL+ workshop (ICML 2020)_
+publication: Contributed Talk on Novel Applications at the Graph Representation Learning and Beyond Workshop (ICML 2020)
+publication_short: _Spotlight at GRL+ workshop (ICML 2020)_
 
 abstract: "We present Wiki-CS, a novel dataset derived from Wikipedia for benchmarking Graph Neural Networks. The dataset consists of nodes corresponding to Computer Science articles, with edges based on hyperlinks and 10 classes representing different branches of the field. We use the dataset to evaluate semi-supervised node classification and single-relation link prediction models. Our experiments show that these methods perform well on a new domain, with structural properties different from earlier benchmarks. The dataset is publicly available, along with the implementation of the data pipeline and the benchmark experiments."
 
