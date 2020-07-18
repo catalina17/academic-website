@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Publication"
+  title = "Two ([1](https://grlplus.github.io/papers/32.pdf), [2](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf)) papers accepted at ICML workshops."
+  date_start = "2020-07-17"
+
+[[item]]
   organization = "Teaching"
   title = "Péter Mernyei, whom I supervised this year, got one of the three contributed talks on Novel Applications at the ICML [GRL+ workshop](https://grlplus.github.io/schedule/)! He will be presenting his undergraduate project, [Wiki-CS](https://arxiv.org/abs/2007.02901)."
   date_start = "2020-06-22"
