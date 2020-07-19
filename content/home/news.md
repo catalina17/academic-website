@@ -22,6 +22,11 @@ date_format = "Jan 2006"
   organization = "Publication"
   title = "Two ([1](https://grlplus.github.io/papers/32.pdf), [2](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf)) papers accepted at ICML workshops."
   date_start = "2020-07-17"
+  
+[[item]]
+  organization = "Work"
+  title = "Started the Research Scientist internship at [DeepMind](https://deepmind.com/), working with [Piotr Mirowski](https://piotrmirowski.com/)!"
+  date_start = "2018-07-06"
 
 [[item]]
   organization = "Teaching"
