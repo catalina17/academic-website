@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Work"
   title = "Started the Research Scientist internship at [DeepMind](https://deepmind.com/), working with [Piotr Mirowski](https://piotrmirowski.com/)!"
-  date_start = "2018-07-06"
+  date_start = "2020-07-06"
 
 [[item]]
   organization = "Teaching"
