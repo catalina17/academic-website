@@ -22,7 +22,7 @@ bio: My research focuses on learning multimodal and graph-structured representat
 
 interests:
 - Graph Representation Learning
-- Cross-Modal Learning
+- Multimodal Learning
 - Visual Reasoning
 
 
