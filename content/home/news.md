@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Publication"
   title = "One [paper](https://arxiv.org/abs/2005.08230) accepted at BMVC."
-  date_start = "2019-07-29"
+  date_start = "2020-07-29"
 
 [[item]]
   organization = "Publication"
