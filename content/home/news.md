@@ -20,6 +20,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Publication"
+  title = "One [paper](https://arxiv.org/abs/2005.08230) accepted at BMVC."
+  date_start = "2019-07-29"
+
+[[item]]
+  organization = "Publication"
   title = "Two ([1](https://grlplus.github.io/papers/32.pdf), [2](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf)) papers accepted at ICML workshops."
   date_start = "2020-07-17"
   
