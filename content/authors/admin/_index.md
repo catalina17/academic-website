@@ -82,6 +82,6 @@ I am a third-year PhD student at the [Department of Computer Science and Technol
 
 My professional experience includes undergraduate Software Engineering internships at Google and Facebook, continuing with a research internship at [Mila](http://mila.quebec) and an AI Residency at [X](http://x.company). Recently, I was also a graph ML consultant for [Relation Therapeutics](https://www.relationrx.com/).
 
-I also have a great passion for teaching and am constantly involved in academic and departmental activities - supervising undergraduate courses, final year projects and master's research projects (+200h and ~60 students), interviewing Computer Science applicants, chairing [women@CL](https://www.cst.cam.ac.uk/women) and introducing professionals to Machine Learning concepts as a [Cambridge Spark](https://cambridgespark.com/) teaching fellow. 
+I have a great passion for teaching and am constantly involved in academic and departmental activities - supervising undergraduate courses, final year projects and master's research projects (+200h and ~60 students), interviewing Computer Science applicants, chairing [women@CL](https://www.cst.cam.ac.uk/women) and introducing professionals to Machine Learning concepts as a [Cambridge Spark](https://cambridgespark.com/) teaching fellow. 
 
 In my "free" (and non-lockdown) time, I row with the Women's First Boat in King's College, play guitar/sing in a rock band and chase my favourite bands on tour. 🎼
