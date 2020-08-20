@@ -37,6 +37,11 @@ date_format = "Jan 2006"
   organization = "Teaching"
   title = "Péter Mernyei, whom I supervised this year, got one of the three contributed talks on Novel Applications at the ICML [GRL+ workshop](https://grlplus.github.io/schedule/)! He will be presenting his undergraduate project, [Wiki-CS](https://arxiv.org/abs/2007.02901)."
   date_start = "2020-06-22"
+  
+[[item]]
+  organization = "Talk"
+  title = "Cris and I (virtually) presented our work (Deep Graph Mapper)[https://github.com/crisbodnar/dgm] at the [ELLIS Workshop on Geometric Deep Learning](https://geometric-relational-dl.github.io/#abstracts)!"
+  date_start = "2020-04-24"
 
 [[item]]
   organization = "Talk"
