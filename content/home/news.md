@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Talk"
-  title = "Cris and I (virtually) presented our work (Deep Graph Mapper)[https://github.com/crisbodnar/dgm] at the [ELLIS Workshop on Geometric Deep Learning](https://geometric-relational-dl.github.io/#abstracts)!"
+  title = "Cris and I (virtually) presented our work [Deep Graph Mapper](https://github.com/crisbodnar/dgm) at the [ELLIS Workshop on Geometric Deep Learning](https://geometric-relational-dl.github.io/#abstracts)!"
   date_start = "2020-04-24"
 
 [[item]]
