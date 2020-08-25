@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-06"
   date_end = ""
   description = """
-  Working with [Piotr Mirowski](https://piotrmirowski.com/) and [Raia Hadsell](http://raiahadsell.com/index.html).
+  Hosted by [Piotr Mirowski](https://piotrmirowski.com/).
   """
   
 [[experience]]
