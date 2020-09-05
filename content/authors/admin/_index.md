@@ -78,7 +78,7 @@ email: ""
 # - Visitors
 ---
 
-I am a third-year PhD student at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world. Currently, I am a Research Scientist Intern at [DeepMind](http://deepmind.com), hosted by [Piotr Mirowski](https://piotrmirowski.com/) in the team led by [Raia Hadsell](http://raiahadsell.com/).
+I am a third-year PhD student at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and affiliated with [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world. Currently, I am a Research Scientist Intern at [DeepMind](http://deepmind.com), hosted by [Piotr Mirowski](https://piotrmirowski.com/) in the Lifelong and Embodied Deep Learning team led by [Raia Hadsell](http://raiahadsell.com/).
 
 My professional experience includes undergraduate Software Engineering internships at Google and Facebook, continuing with a research internship at [Mila](http://mila.quebec) and an AI Residency at [X](http://x.company). Recently, I was also a graph ML consultant for [Relation Therapeutics](https://www.relationrx.com/).
 
