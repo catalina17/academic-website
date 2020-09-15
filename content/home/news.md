@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Award"
-  title = "Was awarded a Top Reviewer Certificate of Appreciation for the 'excellent service as a reviewer for ICML 2020' by the Program and General chairs!"
+  title = "Was awarded a Top Reviewer Certificate of Appreciation for the 'excellent service as a reviewer for [ICML 2020](https://icml.cc/)' by the Program and General chairs!"
   date_start = "2020-09-14"
 
 [[item]]
