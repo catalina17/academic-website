@@ -18,6 +18,13 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Award"
+  organization_url = "https://icml.cc/"
+  title = "Was awarded a Top Reviewer Certificate of Appreciation for the "excellent service as a reviewer for ICML 2020" by the Program and General chairs!"
+  date_start = "2020-09-14"
+
 [[item]]
   organization = "Publication"
   title = "One [paper](https://arxiv.org/abs/2005.08230) accepted at BMVC."
