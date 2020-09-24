@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Thirty-seventh International Conference on Machine Learning"
+  organization_url = "https://icml.cc/"
+  title = "Top Reviewer Certificate of Appreciation"
+  date_start = "2020-09-14"
+  description = "The Top Reviewer Certificate of Appreciation acknowledges ‘excellent service as a reviewer for ICML 2020’, awarded by the Program and General chairs."
+
+[[item]]
   organization = "Department of Computer Science and Technology, University of Cambridge"
   organization_url = "https://www.cst.cam.ac.uk/"
   title = "Wiseman Award"
