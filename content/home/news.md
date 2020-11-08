@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Workshop"
+  title = "I am co-organising the [Visually Grounded Interaction and Language (ViGIL) workshop](https://vigilworkshop.github.io/) - just confirmed to take place at [NAACL 2021](https://2021.naacl.org/)!"
+  date_start = "2020-11-08"
+
+[[item]]
   organization = "Award"
   title = "Was awarded a Top Reviewer Certificate of Appreciation for the 'excellent service as a reviewer for [ICML 2020](https://icml.cc/)' by the Program and General chairs!"
   date_start = "2020-09-14"
