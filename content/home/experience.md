@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   company_url = "https://deepmind.com/"
   location = "Cambridge, UK (remote)"
   date_start = "2020-07-06"
-  date_end = ""
+  date_end = "2020-11-20"
   description = """
-  Hosted by [Piotr Mirowski](https://piotrmirowski.com/).
+  Hosted by [Piotr Mirowski](https://piotrmirowski.com/), in the Lifelong and Embodied Deep Learning team led by [Raia Hadsell](http://raiahadsell.com/).
   """
   
 [[experience]]
