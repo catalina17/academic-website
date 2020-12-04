@@ -12,7 +12,7 @@ address:
   country:
 
 summary: A reading group-style session focused around MetaFun (Xu et al. ICML 2020).
-abstract: "During this 1h reading group-style session, I will review the original meta-learning approaches (original ones from Andrychowicz et al. 2016, Ravi & Larochelle 2017, Finn et al. 2017) and a more recent one based on Neural Processes, published at ICML 2020 (MetaFun, Xu et al.)."
+abstract: "During this 1h reading group-style session, I will review the initial meta-learning approaches (Andrychowicz et al. 2016, Ravi & Larochelle 2017, Finn et al. 2017) and a more recent one based on Neural Processes, published at ICML 2020 (MetaFun, Xu et al.)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
