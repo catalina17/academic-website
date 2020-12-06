@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Publication"
+  title = "Two ([Deep Graph Mapper](https://openreview.net/pdf?id=IYX38fl5sTh), [Goal-Conditioned RL in the Presence of an Adversary](https://sites.google.com/view/deep-rl-workshop-neurips2020/home?authuser=0)) papers accepted at [TDA](https://tda-in-ml.github.io/papers) and [DeepRL](https://sites.google.com/view/deep-rl-workshop-neurips2020/home?authuser=0) NeurIPS workshops."
+  date_start = "2020-12-06"
+
+[[item]]
   organization = "Workshop"
   title = "I am co-organising the [Visually Grounded Interaction and Language (ViGIL) workshop](https://vigilworkshop.github.io/) - just confirmed to take place at [NAACL 2021](https://2021.naacl.org/)!"
   date_start = "2020-11-08"
