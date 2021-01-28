@@ -67,6 +67,9 @@ social:
 - icon: spotify
   icon_pack: fab
   link: https://open.spotify.com/user/11120080211
+- icon: deviantart
+  icon_pack: fab
+  link: https://www.deviantart.com/slowfretboarddancer
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
