@@ -1,9 +1,9 @@
 ---
-title: "Graph generation methods"
-event: R250 MPhil course - Graph Neural Networks
-event_url: https://www.cl.cam.ac.uk/teaching/1920/R250/
+title: "Graph generation and probabilistic methods"
+event: R250 MPhil course - Graph Neural Networks module
+event_url: https://www.cl.cam.ac.uk/teaching/2021/R250/
 
-location: William Gates Building
+location: Virtual
 address:
   street: JJ Thomson Avenue
   city: Cambridge
@@ -11,17 +11,17 @@ address:
   postcode: CB3 0FD
   country: United Kingdom
 
-summary: A short intro to graph generation methods in recent ML research.
-abstract: "This short lecture will present three different approaches to graph generation from the ML literature, using a variety of techniques based on deep learning and probabilistic building blocks."
+summary: An overview of several graph generation and probabilistic approaches, part of the R250 MPhil course at the Cambridge CS department.
+abstract: "This short lecture will present three different approaches to graph generation from the ML literature, using a variety of techniques based on deep learning and probabilistic building blocks. We will then cover the motivation for incorporating uncertainty when making predictions and briefly discuss a novel approach to learning graph representations that achieves this."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-17T14:00:00Z"
-date_end: "2020-01-17T16:00:00Z"
+date: "2021-02-12T09:30:00Z"
+date_end: "2020-02-12T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-01-13T00:00:00Z"
+publishDate: "2020-02-12T00:00:00Z"
 
 authors: []
 tags: []
@@ -38,10 +38,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/catalinacangea
-# url_code: https://github.com/catalina17/VideoNavQA/
-# url_pdf: https://vigilworkshop.github.io/static/papers/9.pdf
-url_slides: https://www.cl.cam.ac.uk/~ccc53/files/R250%20-%20Graph%20generation%20methods.pdf
-# url_video: https://slideslive.com/38921907/visually-grounded-interaction-and-language-2
+# url_code: 
+# url_pdf: 
+url_slides: https://docs.google.com/presentation/d/1oL-PxIPT5LnoF_EzdRKjCBQD_x0aOKLHtIK0LvMLKkA/
+# url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
