@@ -1,7 +1,7 @@
 ---
 title: "Graph Representation Learning under Uncertainty"
 event: Artificial Intelligence Research Group Talks
-event_url: http://www.csml.ucl.ac.uk/events/401
+event_url: http://talks.cam.ac.uk/show/index/99646
 
 location: Virtual
 address:
