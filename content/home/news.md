@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2, 2006"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -21,7 +21,7 @@ date_format = "January 2, 2006"
 
 [[item]]
   organization = "Work"
-  title = "Finished writing my thesis today! :)"
+  title = "It's Feb 23rd and I finished writing my thesis! :)"
   date_start = "2021-02-23"
 
 [[item]]
