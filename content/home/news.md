@@ -18,6 +18,12 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Work"
+  title = "Finished writing my thesis today! :)"
+  date_start = "2021-02-23"
+
 [[item]]
   organization = "Publication"
   title = "Two ([Deep Graph Mapper](https://openreview.net/pdf?id=IYX38fl5sTh), [Goal-Conditioned RL in the Presence of an Adversary](https://sites.google.com/view/deep-rl-workshop-neurips2020/home?authuser=0)) papers accepted at [TDA](https://tda-in-ml.github.io/papers) and [DeepRL](https://sites.google.com/view/deep-rl-workshop-neurips2020/home?authuser=0) NeurIPS workshops."
