@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student in Machine Learning
+role: PhD in Machine Learning
 
 # Organizations/Affiliations
 organizations:
@@ -22,6 +22,7 @@ bio: My research focuses on learning multimodal and graph-structured representat
 
 interests:
 - Graph Representation Learning
+- Embodied Learning
 - Multimodal Learning
 - Visual Reasoning
 
@@ -81,7 +82,7 @@ email: ""
 # - Visitors
 ---
 
-I have now passed my PhD viva with ***no corrections*** at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk)! During my PhD studies, I have been supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world.
+**As of May 25th, I passed my PhD viva with no corrections** at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk)! During my PhD, I have been supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world.
 
 Until November 2020, I was a Research Scientist intern at [DeepMind](http://deepmind.com), hosted by [Piotr Mirowski](https://piotrmirowski.com/) in the Robotics, Embodied Agents and Lifelong learning (REAL) team led by [Raia Hadsell](http://raiahadsell.com/). I am co-organising the [Visually Grounded Interaction and Language Workshop](https://vigilworkshop.github.io/) taking place at [NAACL 2021](https://2021.naacl.org/).
 
@@ -89,4 +90,4 @@ My professional experience includes undergraduate Software Engineering internshi
 
 I have a great passion for teaching and am constantly involved in academic and departmental life - supervising undergraduate courses, final year projects and Master's research projects (+200h and ~60 students), interviewing CS applicants, chairing [women@CL](https://www.cst.cam.ac.uk/women) and introducing professionals to Machine Learning concepts as a [Cambridge Spark](https://cambridgespark.com/) Teaching Fellow. I also helped prepare and deliver Master's courses, both on the practical (L42 Neural Networks in [2018](https://www.cl.cam.ac.uk/teaching/1718/L42/) and [2019](https://www.cl.cam.ac.uk/teaching/1819/L42/)) and theoretical side ([R250](https://www.cl.cam.ac.uk/teaching/2021/R250/) Graph Neural Network seminars in [2020](https://catalinacangea.netlify.app/talk/r250_jan20/) and [2021](https://catalinacangea.netlify.app/talk/r250_feb21/)).
 
-Outside work, I love [rowing with the Women's First Boat in King's College](https://uk.virginmoneygiving.com/fundraiser-display/showROFundraiserPage?userUrl=KingsW1&isTeam=true), travelling, playing the piano/guitar/singing in a rock band and chasing my favourite bands on tour. 🎼 I've also recently revived an old habit of [writing poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and taken up [cycling](https://ridefortomorrow.redcross.org.uk/fundraising/ccs-410k-for-british-red-cross)!
+Outside work, I love [rowing with the Women's First Boat in King's College](https://uk.virginmoneygiving.com/fundraiser-display/showROFundraiserPage?userUrl=KingsW1&isTeam=true), travelling, playing the piano/guitar/singing in a rock band and chasing my favourite bands on tour. 🎼 I've also revived an old habit of [writing poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and taken up [cycling](https://ridefortomorrow.redcross.org.uk/fundraising/ccs-410k-for-british-red-cross)!
