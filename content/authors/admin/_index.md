@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Machine Learning
     institution: University of Cambridge
-    year: 2021 (expected)
+    year: 2021
   - course: MPhil in Advanced Computer Science
     institution: University of Cambridge
     year: 2017
@@ -82,7 +82,7 @@ email: ""
 # - Visitors
 ---
 
-**As of May 25th, I passed my PhD viva with no corrections** at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk)! During my PhD, I have been supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world.
+**On May 25th 2021, I passed my PhD viva with no corrections!** During my PhD at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), I have been supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world.
 
 Until November 2020, I was a Research Scientist intern at [DeepMind](http://deepmind.com), hosted by [Piotr Mirowski](https://piotrmirowski.com/) in the Robotics, Embodied Agents and Lifelong learning (REAL) team led by [Raia Hadsell](http://raiahadsell.com/). I am co-organising the [Visually Grounded Interaction and Language Workshop](https://vigilworkshop.github.io/) taking place at [NAACL 2021](https://2021.naacl.org/).
 
