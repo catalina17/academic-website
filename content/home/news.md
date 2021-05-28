@@ -21,6 +21,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Work"
+  title = "On May 25th, after a fruitful discussion with my examiners [Nic Lane](http://niclane.org/) and [Xavier Bresson](https://www.linkedin.com/in/xavier-bresson-738585b/), I passed my PhD viva **without corrections**! My thesis is titled *'Exploiting multimodality and structure in world representations'* and will soon be publicly available. I am endlessly grateful to my supervisor [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) for all the unconditional, mindful and thoughtful support he has given me throughout the degree."
+  date_start = "2021-05-25"
+
+[[item]]
+  organization = "Work"
   title = "It's Feb 23rd and I finished writing my thesis! :)"
   date_start = "2021-02-23"
 
