@@ -4,11 +4,11 @@ authors:
 - Cristian Bodnar*
 - Cătălina Cangea*
 - Pietro Liò
-date: "2020-02-11:00:00Z"
+date: "2020-12-01:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-02-11T00:00:00Z"
+publishDate: "2020-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: To appear in Frontiers in Big Data 2021, Topological Data Analysis and Beyond Workshop (NeurIPS 2020)
 publication_short: _Frontiers 2021, TDA and Beyond (NeurIPS-W 2020)_
 
-abstract: "Recent advancements in graph representation learning have led to the emergence of condensed encodings that capture the main properties of a graph. However, even though these abstract representations are powerful for downstream tasks, they are not equally suitable for visualisation purposes. In this work, we merge Mapper, an algorithm from the field of Topological Data Analysis, with the expressive power of graph neural networks to produce hierarchical, topologically-grounded visualisations of graphs. These visualisations do not only help discern the structure of complex graphs, but also provide a means of understanding the models applied to them for solving various tasks. We further demonstrate the suitability of Mapper as a topological framework for graph pooling by showing an equivalence with soft-cluster assignment pooling methods (minCUT, DiffPool). Building upon this framework, we introduce a novel pooling algorithm based on PageRank, which obtains competitive results with state-of-the-art methods on graph classification benchmarks."
+abstract: " Graph summarisation has received much attention lately, with various works tackling the challenge of defining pooling operators on data regions with arbitrary structures. These contrast the grid-like ones encountered in image inputs, where techniques such as max-pooling have been enough to show empirical success. In this work, we merge the Mapper algorithm with the expressive power of graph neural networks to produce topologically-grounded graph summaries. We demonstrate the suitability of Mapper as a topological framework for graph pooling by proving that Mapper is a generalisation of pooling methods based on soft cluster assignments. Building upon this, we show how easy it is to design novel pooling algorithms that obtain competitive results with other state-of-the-art methods."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +38,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/pdf/2002.03864.pdf
+url_pdf: https://openreview.net/pdf?id=IYX38fl5sTh
 url_code: https://github.com/crisbodnar/dgm
 # url_dataset: 
 url_poster: https://openreview.net/attachment?id=IYX38fl5sTh&name=Poster
