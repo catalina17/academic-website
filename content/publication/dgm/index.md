@@ -14,11 +14,11 @@ publishDate: "2020-02-11T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Topological Data Analysis and Beyond Workshop (NeurIPS 2020)
-publication_short: _TDA and Beyond Workshop (NeurIPS 2020)_
+publication: To appear in Frontiers in Big Data 2021, Topological Data Analysis and Beyond Workshop (NeurIPS 2020)
+publication_short: _Frontiers 2021, TDA and Beyond (NeurIPS-W 2020)_
 
 abstract: "Recent advancements in graph representation learning have led to the emergence of condensed encodings that capture the main properties of a graph. However, even though these abstract representations are powerful for downstream tasks, they are not equally suitable for visualisation purposes. In this work, we merge Mapper, an algorithm from the field of Topological Data Analysis, with the expressive power of graph neural networks to produce hierarchical, topologically-grounded visualisations of graphs. These visualisations do not only help discern the structure of complex graphs, but also provide a means of understanding the models applied to them for solving various tasks. We further demonstrate the suitability of Mapper as a topological framework for graph pooling by showing an equivalence with soft-cluster assignment pooling methods (minCUT, DiffPool). Building upon this framework, we introduce a novel pooling algorithm based on PageRank, which obtains competitive results with state-of-the-art methods on graph classification benchmarks."
 
@@ -41,8 +41,8 @@ links:
 url_pdf: https://arxiv.org/pdf/2002.03864.pdf
 url_code: https://github.com/crisbodnar/dgm
 # url_dataset: 
-# url_poster: 
-# url_project: ''
+url_poster: https://openreview.net/attachment?id=IYX38fl5sTh&name=Poster
+url_project: Topological Data Analysis and Beyond Workshop (NeurIPS 2020)
 url_slides: https://github.com/catalina17/academic-website/blob/master/content/talk/mila_grg_feb20/DGM_Presentation.pdf
 # url_source: ''
 # url_video: 
