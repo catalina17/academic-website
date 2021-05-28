@@ -42,7 +42,7 @@ url_pdf: https://arxiv.org/pdf/2002.03864.pdf
 url_code: https://github.com/crisbodnar/dgm
 # url_dataset: 
 url_poster: https://openreview.net/attachment?id=IYX38fl5sTh&name=Poster
-url_project: Topological Data Analysis and Beyond Workshop (NeurIPS 2020)
+url_project: https://www.frontiersin.org/articles/10.3389/fdata.2021.680535/abstract
 url_slides: https://github.com/catalina17/academic-website/blob/master/content/talk/mila_grg_feb20/DGM_Presentation.pdf
 # url_source: ''
 # url_video: 
