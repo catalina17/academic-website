@@ -25,6 +25,11 @@ date_format = "Jan 2006"
   date_start = "2021-05-25"
 
 [[item]]
+  organization = "Publication"
+  title = "An updated and extended version of our study [Deep Graph Mapper](https://openreview.net/pdf?id=IYX38fl5sTh) has been accepted to [Frontiers in Big Data](https://www.frontiersin.org/articles/10.3389/fdata.2021.680535/abstract), under the topic *Topology in Real-World Machine Learning and Data Analysis*! Full version soon available."
+  date_start = "2021-05-24"
+
+[[item]]
   organization = "Work"
   title = "It's Feb 23rd and I finished writing my thesis! :)"
   date_start = "2021-02-23"
