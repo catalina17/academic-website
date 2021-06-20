@@ -17,7 +17,7 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Frontiers in Big Data 2021, Topological Data Analysis and Beyond Workshop (NeurIPS 2020)
+publication: Frontiers in Big Data 2021, Topological Data Analysis and Beyond Workshop (NeurIPS 2020)
 publication_short: _Frontiers 2021, TDA and Beyond (NeurIPS-W 2020)_
 
 abstract: " Graph summarisation has received much attention lately, with various works tackling the challenge of defining pooling operators on data regions with arbitrary structures. These contrast the grid-like ones encountered in image inputs, where techniques such as max-pooling have been enough to show empirical success. In this work, we merge the Mapper algorithm with the expressive power of graph neural networks to produce topologically-grounded graph summaries. We demonstrate the suitability of Mapper as a topological framework for graph pooling by proving that Mapper is a generalisation of pooling methods based on soft cluster assignments. Building upon this, we show how easy it is to design novel pooling algorithms that obtain competitive results with other state-of-the-art methods."
@@ -38,11 +38,11 @@ tags:
 featured: true
 
 links:
-url_pdf: https://openreview.net/pdf?id=IYX38fl5sTh
+url_pdf: https://www.frontiersin.org/articles/10.3389/fdata.2021.680535/abstract
 url_code: https://github.com/crisbodnar/dgm
 # url_dataset: 
 url_poster: https://openreview.net/attachment?id=IYX38fl5sTh&name=Poster
-url_project: https://www.frontiersin.org/articles/10.3389/fdata.2021.680535/abstract
+# url_project:
 url_slides: https://github.com/catalina17/academic-website/blob/master/content/talk/mila_grg_feb20/DGM_Presentation.pdf
 # url_source: ''
 # url_video: 
