@@ -82,7 +82,7 @@ email: ""
 # - Visitors
 ---
 
-**On May 25th 2021, I passed my PhD viva with no corrections!** During my PhD at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), I have been supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). My research focuses on learning multimodal and graph-structured representations of the world.
+**On May 25th 2021, I passed my PhD viva with no corrections! My thesis _'Exploiting multimodality and structure in world representations_ can be found [here](https://catalinacangea.netlify.app/files/Exploiting_multimodality_and_structure_in_world_representations___PhD_thesis__FINAL.pdf)**. During my PhD at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), I have been supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk).
 
 Until November 2020, I was a Research Scientist intern at [DeepMind](http://deepmind.com), hosted by [Piotr Mirowski](https://piotrmirowski.com/) in the Robotics, Embodied Agents and Lifelong learning (REAL) team led by [Raia Hadsell](http://raiahadsell.com/). I am co-organising the [Visually Grounded Interaction and Language Workshop](https://vigilworkshop.github.io/) taking place at [NAACL 2021](https://2021.naacl.org/).
 
