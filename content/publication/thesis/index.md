@@ -3,7 +3,7 @@ title: "Exploiting multimodality and structure in world representations"
 authors:
 - admin
 date: "2021-03-07:00:00Z"
-doi: ""
+doi: "https://doi.org/10.17863/CAM.72490"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-07T00:00:00Z"
@@ -35,7 +35,7 @@ tags:
 - language grounding
 - meta-learning
 - few-shot learning
-featured: false
+featured: true
 
 links:
 url_pdf: https://doi.org/10.17863/CAM.72490
