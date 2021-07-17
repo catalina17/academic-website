@@ -35,7 +35,7 @@ tags:
 - graph visualisation
 - DGI
 - pooling
-featured: true
+featured: false
 
 links:
 url_pdf: https://www.frontiersin.org/articles/10.3389/fdata.2021.680535/abstract
