@@ -18,6 +18,10 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Publication"
+  title = "Our work on [Generative Compositional Augmentations for Scene Graph Prediction](https://arxiv.org/abs/2007.05756) led by Boris Knyazev, in collaboration with Mila and Element AI researchers, just got accepted to [ICCV 2021](http://iccv2021.thecvf.com/)! There are lucky instances where reviewers look at the rebuttal..."
+  date_start = "2021-07-23"
 
 [[item]]
   organization = "Work"
