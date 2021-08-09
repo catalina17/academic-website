@@ -82,7 +82,7 @@ email: ""
 # - Visitors
 ---
 
-On May 25th 2021, **I passed my PhD viva with no corrections**! My thesis is available [here](https://doi.org/10.17863/CAM.72490). During my PhD at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), I was supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk).
+I recently completed my PhD at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), where I was supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). On May 25th 2021, **I passed the PhD viva with no corrections**! My thesis is available [here](https://doi.org/10.17863/CAM.72490).
 
 My professional experience includes undergraduate Software Engineering internships at Google and Facebook. During the PhD, I was a Research Intern at [Mila](http://mila.quebec) and an AI Resident at [X](http://x.company). I also briefly worked for [Relation Therapeutics](https://www.relationrx.com/) as a (graph) ML consultant. Until November 2020, I was a Research Scientist intern at [DeepMind](http://deepmind.com), hosted by [Piotr Mirowski](https://piotrmirowski.com/) in the Robotics, Embodied Agents and Lifelong learning (REAL) team led by [Raia Hadsell](http://raiahadsell.com/). Most recently, I co-organised the [Visually Grounded Interaction and Language Workshop](https://vigilworkshop.github.io/) at [NAACL 2021](https://2021.naacl.org/).
 
