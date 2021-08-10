@@ -94,7 +94,7 @@ address = {street = "King's College", city = "Cambridge", region = "Cambridgeshi
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.21107", longitude = "0.09197"}
+coordinates = {latitude = "52.20436611258799", longitude = "0.11725598151163552"}
 
 # Directions for visitors to locate you.
 # directions = ""
