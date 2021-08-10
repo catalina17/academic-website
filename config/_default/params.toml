@@ -85,19 +85,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "catalina.cangea@cst.cam.ac.uk"
-phone = "+44 1223 769 025"
+email = "catalina.cangea@gmail.com"
+phone = "+447445235834"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "15 JJ Thomson Avenue", city = "Cambridge", region = "Cambridgeshire", postcode = "CB3 0FD", country = "United Kingdom", country_code = "GB"}
+address = {street = "King's College", city = "Cambridge", region = "Cambridgeshire", postcode = "CB2 1ST", country = "United Kingdom", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "52.21107", longitude = "0.09197"}
 
 # Directions for visitors to locate you.
-directions = "Office FE14"
+# directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
