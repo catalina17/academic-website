@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist at DeepMind
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
