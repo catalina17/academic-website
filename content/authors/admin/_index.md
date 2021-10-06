@@ -18,12 +18,13 @@ organizations:
   url: "https://deepmind.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Scientist at DeepMind, with a PhD in Machine Learning from the University of Cambridge, interested in {multimodal, graph-structured, meta-} learning and real-world challenges.
+bio: Research Scientist at DeepMind, with a PhD in Machine Learning from the University of Cambridge. Interested in {multimodal, graph-structured, meta-} learning and real-world challenges.
 
 interests:
-- Graph Representation Learning
-- Multimodal Learning
-- Meta-Learning
+- Graph representation learning
+- Meta-learning
+- Multimodal learning
+- Real-world challenges
 
 
 education:
