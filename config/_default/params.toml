@@ -90,11 +90,11 @@ phone = "+447445235834"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "King's College", city = "Cambridge", region = "Cambridgeshire", postcode = "CB2 1ST", country = "United Kingdom", country_code = "GB"}
+address = {street = "8 Handyside Street", city = "London", region = "London", postcode = "N1C 4DJ", country = "United Kingdom", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.20436611258799", longitude = "0.11725598151163552"}
+coordinates = {latitude = "51.5378397", longitude = "-0.1261531"}
 
 # Directions for visitors to locate you.
 # directions = ""
