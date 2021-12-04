@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Scientist"
+  company = "DeepMind"
+  company_url = "https://deepmind.com/"
+  location = "Cambridge / London, UK"
+  date_start = "2021-10-04"
+  date_end = ""
+  description = """
+  Part of the Deep Learning team led by [Oriol Vinyals](https://research.google/people/OriolVinyals/).
+  """
+
+[[experience]]
   title = "Research Scientist Intern"
   company = "DeepMind"
   company_url = "https://deepmind.com/"
