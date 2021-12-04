@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Talk"
+  title = "I was honoured to give a keynote [talk](https://drive.google.com/file/d/1cOsuC7V27synjcN1eWep5HttunGO5WQw/view) at the [Romanian AI days](https://days.airomania.eu/) event. Many thanks to the organisers for inviting me and to the audience for the stimulating Q&A!"
+  date_start = "2021-11-25"
+
+[[item]]
   organization = "Publication"
   title = "Our work on [Generative Compositional Augmentations for Scene Graph Prediction](https://arxiv.org/abs/2007.05756) led by Boris Knyazev, in collaboration with Mila and Element AI researchers, just got accepted to [ICCV 2021](http://iccv2021.thecvf.com/)! There are lucky instances where reviewers look at the rebuttal..."
   date_start = "2021-07-23"
@@ -77,75 +82,5 @@ date_format = "Jan 2006"
   organization = "Talk"
   title = "Cris and I (virtually) presented our work [Deep Graph Mapper](https://github.com/crisbodnar/dgm) at the [ELLIS Workshop on Geometric Deep Learning](https://geometric-relational-dl.github.io/#abstracts)!"
   date_start = "2020-04-24"
-
-[[item]]
-  organization = "Talk"
-  title = "Gave a [spotlight talk](https://vigilworkshop.github.io/#schedule) at the NeurIPS ViGIL workshop on [VideoNavQA](https://github.com/catalina17/VideoNavQA/)!"
-  date_start = "2019-12-01"
-
-[[item]]
-  organization = "Publication"
-  title = "Two ([1](https://vigilworkshop.github.io/static/papers/9.pdf), [2](https://drive.google.com/file/d/1blUvfVKbq9jftMRMsKtlZpbyLhdw9ynh/view)) papers accepted at NeurIPS workshops."
-  date_start = "2019-12-01"
-
-[[item]]
-  organization = "Award"
-  organization_url = "https://www.cst.cam.ac.uk/"
-  title = "Received the departmental [Wiseman Prize](https://www.cst.cam.ac.uk/wiseman-prize) (only six recipients this year!)"
-  date_start = "2019-11-01"
-
-[[item]]
-  organization = "Talk"
-  organization_url = "https://mila.quebec/"
-  title = "[Tea Talk](https://catalinacangea.netlify.com/talk/milateatalk/) at Mila on VideoNavQA, our new [study](https://arxiv.org/abs/1908.04950) and [benchmark](https://github.com/catalina17/VideoNavQA/)."
-  date_start = "2019-10-01"
-
-[[item]]
-  organization = "Teaching"
-  title = "Supervising two undergraduate projects and one master’s project this year!"
-  date_start = "2019-10-01"
-  
-[[item]]
-  organization = "Publication"
-  title = "One [paper](https://ieeexplore.ieee.org/document/8894404) published by IEEE Transactions on Neural Networks and Learning Systems."
-  date_start = "2019-10-01"
-  
-
-[[item]]
-  organization = "Code/dataset release"
-  title = "Released the [VideoNavQA benchmark](https://github.com/catalina17/VideoNavQA/)!"
-  date_start = "2019-08-01"
-
-[[item]]
-  organization = "Publication"
-  title = "One [paper](https://arxiv.org/abs/1908.04950) accepted at BMVC."
-  date_start = "2019-08-01"
-  
-
-[[item]]
-  organization = "Work"
-  title = "Started the AI Residency at [X, the moonshot factory](https://x.company/)."
-  date_start = "2019-05-01"
-  
-[[item]]
-  organization = "Publication"
-  title = "Two papers ([1](https://arxiv.org/abs/1904.06316), [2](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/12_aisg_iclr2019.pdf)) accepted at ICLR workshops."
-  date_start = "2019-05-01"
-  
-[[item]]
-  organization = "Publication"
-  title = "Two papers ([1](https://arxiv.org/abs/1811.01287), [2](https://arxiv.org/abs/1811.09714)) accepted at NeurIPS workshops."
-  date_start = "2018-12-01"
-
-[[item]]
-  organization = "Teaching"
-  title = "Co-supervising one undergraduate and two master’s projects this year."
-  date_start = "2018-10-01"
-  
-
-[[item]]
-  organization = "Work"
-  title = "Started the research internship at [Mila](http://mila.quebec/), working with [Aaron Courville](https://mila.quebec/en/person/aaron-courville/)."
-  date_start = "2018-07-01"
 
 +++
