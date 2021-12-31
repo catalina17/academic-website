@@ -42,45 +42,5 @@ date_format = "Jan 2006"
   organization = "Work"
   title = "It's Feb 23rd and I finished writing my thesis! :)"
   date_start = "2021-02-23"
-<!-- 
-[[item]]
-  organization = "Publication"
-  title = "Two ([Deep Graph Mapper](https://openreview.net/pdf?id=IYX38fl5sTh), [Goal-Conditioned RL in the Presence of an Adversary](https://sites.google.com/view/deep-rl-workshop-neurips2020/home?authuser=0)) papers accepted at [TDA](https://tda-in-ml.github.io/papers) and [DeepRL](https://sites.google.com/view/deep-rl-workshop-neurips2020/home?authuser=0) NeurIPS workshops."
-  date_start = "2020-12-06"
-
-[[item]]
-  organization = "Workshop"
-  title = "I am co-organising the [Visually Grounded Interaction and Language (ViGIL) workshop](https://vigilworkshop.github.io/) - just confirmed to take place at [NAACL 2021](https://2021.naacl.org/)!"
-  date_start = "2020-11-08"
-
-[[item]]
-  organization = "Award"
-  title = "Was awarded a Top Reviewer Certificate of Appreciation for the 'excellent service as a reviewer for [ICML 2020](https://icml.cc/)' by the Program and General chairs!"
-  date_start = "2020-09-14"
-
-[[item]]
-  organization = "Publication"
-  title = "One [paper](https://arxiv.org/abs/2005.08230) accepted at BMVC."
-  date_start = "2020-07-29"
-
-[[item]]
-  organization = "Publication"
-  title = "Two ([1](https://grlplus.github.io/papers/32.pdf), [2](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf)) papers accepted at ICML workshops."
-  date_start = "2020-07-17"
-  
-[[item]]
-  organization = "Work"
-  title = "Started the Research Scientist internship at [DeepMind](https://deepmind.com/), working with [Piotr Mirowski](https://piotrmirowski.com/)!"
-  date_start = "2020-07-06"
-
-[[item]]
-  organization = "Teaching"
-  title = "Péter Mernyei, whom I supervised this year, got one of the three contributed talks on Novel Applications at the ICML [GRL+ workshop](https://grlplus.github.io/schedule/)! He will be presenting his undergraduate project, [Wiki-CS](https://arxiv.org/abs/2007.02901)."
-  date_start = "2020-06-22"
-  
-[[item]]
-  organization = "Talk"
-  title = "Cris and I (virtually) presented our work [Deep Graph Mapper](https://github.com/crisbodnar/dgm) at the [ELLIS Workshop on Geometric Deep Learning](https://geometric-relational-dl.github.io/#abstracts)!"
-  date_start = "2020-04-24" -->
 
 +++
