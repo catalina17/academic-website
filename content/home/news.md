@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   organization = "Work"
   title = "It's Feb 23rd and I finished writing my thesis! :)"
   date_start = "2021-02-23"
-
+<!-- 
 [[item]]
   organization = "Publication"
   title = "Two ([Deep Graph Mapper](https://openreview.net/pdf?id=IYX38fl5sTh), [Goal-Conditioned RL in the Presence of an Adversary](https://sites.google.com/view/deep-rl-workshop-neurips2020/home?authuser=0)) papers accepted at [TDA](https://tda-in-ml.github.io/papers) and [DeepRL](https://sites.google.com/view/deep-rl-workshop-neurips2020/home?authuser=0) NeurIPS workshops."
@@ -81,6 +81,6 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Talk"
   title = "Cris and I (virtually) presented our work [Deep Graph Mapper](https://github.com/crisbodnar/dgm) at the [ELLIS Workshop on Geometric Deep Learning](https://geometric-relational-dl.github.io/#abstracts)!"
-  date_start = "2020-04-24"
+  date_start = "2020-04-24" -->
 
 +++
