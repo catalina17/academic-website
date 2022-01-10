@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2021-10-04"
   date_end = ""
   description = """
-  Part of the Deep Learning team led by [Oriol Vinyals](https://research.google/people/OriolVinyals/).
+  Part of the Deep Learning team.
   """
 
 [[experience]]
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-06"
   date_end = "2020-11-20"
   description = """
-  Hosted by [Piotr Mirowski](https://piotrmirowski.com/), in the Robotics, Embodied Agents and Lifelong learning (REAL) team led by [Raia Hadsell](http://raiahadsell.com/).
+  Hosted by [Piotr Mirowski](https://piotrmirowski.com/), in the Robotics, Embodied Agents and Lifelong learning (REAL) team.
   """
   
 [[experience]]
