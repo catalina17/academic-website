@@ -18,13 +18,13 @@ organizations:
   url: "https://deepmind.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Scientist at DeepMind, with a PhD in Machine Learning from the University of Cambridge. Interested in {multimodal, graph-structured, meta-} learning and solving real-world challenges.
+bio: Research Scientist at DeepMind, with a PhD in Machine Learning from the University of Cambridge. Interested in multimodal & sequential learning in real-world scenarios and music ML.
 
 interests:
-- Graph representation learning
-- Meta-learning
 - Multimodal learning
-- Real-world challenges
+- Sequential learning
+- ML for music & creativity
+- Applying ML to real-world scenarios
 
 
 education:
@@ -82,10 +82,10 @@ email: ""
 # - Visitors
 ---
 
-I am a Research Scientist at [DeepMind](http://deepmind.com), part of the Deep Learning team. In March 2021, I completed my PhD at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), where I was supervised by [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). My thesis received no corrections during the viva and is available [here](https://doi.org/10.17863/CAM.72490).
+I am a Research Scientist at [DeepMind](http://deepmind.com), part of the Deep Learning team. I previously completed my PhD at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk), supervised by [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). My PhD thesis received no corrections during the viva and is available [here](https://doi.org/10.17863/CAM.72490).
 
-My professional experience includes undergraduate Software Engineering internships at Google and Facebook. During the PhD, I was a Research Intern at [Mila](http://mila.quebec), an AI Resident at [X](http://x.company), an ML consultant for [Relation Therapeutics](https://www.relationrx.com/) and a Research Scientist intern at DeepMind, hosted by [Piotr Mirowski](https://piotrmirowski.com/) in the Robotics, Embodied Agents and Lifelong learning team. I have also been active in the research community, having most recently co-organised the [ViGIL workshop](https://vigilworkshop.github.io/) at [NAACL 2021](https://2021.naacl.org/).
+In my undergraduate summer holidays, I gained SWE experience across the stack during internships at Google and Facebook. Later, I also worked in various collaborative research environments: as a research intern at [Mila](http://mila.quebec), an AI Resident at [X](http://x.company), a research consultant at [Relation Therapeutics](https://www.relationrx.com/) and a Research Scientist Intern at [DeepMind](http://deepmind.com). The research projects focused on (multimodal) navigation or graph ML and resulted in publications, patents and codebases used further in existing projects. I have also been active in the research community, having previously co-organised the [ViGIL workshop](https://vigilworkshop.github.io/) at [NAACL 2021](https://2021.naacl.org/).
 
-My great passion for teaching pushed me towards supervising undergraduate courses, final year projects and Master's research projects (+200h and ~60 students), interviewing CS applicants, chairing [women@CL](https://www.cst.cam.ac.uk/women) and introducing professionals to Machine Learning concepts as a [Cambridge Spark](https://cambridgespark.com/) Teaching Fellow. I also helped prepare and deliver Master's courses, both on the practical (L42 NN practicals in [2018](https://www.cl.cam.ac.uk/teaching/1718/L42/), [2019](https://www.cl.cam.ac.uk/teaching/1819/L42/)) and theoretical side ([R250](https://www.cl.cam.ac.uk/teaching/2021/R250/) GNN seminars in [2020](https://catalinacangea.netlify.app/talk/r250_jan20/) and [2021](https://catalinacangea.netlify.app/talk/r250_feb21/)).
+Teaching has been a great passion of mine, which I am maintaining outside academia by delivering tutorials and supervising projects at ML summer schools. At Cambridge, I supervised ~60 students for +200h for their undergraduate courses, final year projects and Master's research projects (+200h and ~60 students), interviewed CS applicants, chaired [women@CL](https://www.cst.cam.ac.uk/women) and introduced professionals to Machine Learning concepts as a [Cambridge Spark](https://cambridgespark.com/) Teaching Fellow. I also helped prepare and deliver Master's courses, both on the practical (L42 NN practicals in [2018](https://www.cl.cam.ac.uk/teaching/1718/L42/), [2019](https://www.cl.cam.ac.uk/teaching/1819/L42/)) and theoretical side ([R250](https://www.cl.cam.ac.uk/teaching/2021/R250/) GNN seminars in [2020](https://catalinacangea.netlify.app/talk/r250_jan20/) and [2021](https://catalinacangea.netlify.app/talk/r250_feb21/)).
 
-Outside work, I love [rowing](https://uk.virginmoneygiving.com/fundraiser-display/showROFundraiserPage?userUrl=KingsW1&isTeam=true), travelling, playing the piano/guitar/singing in a rock band and chasing my favourite bands on tour. 🎼 I've recently revived an old habit of [writing poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and taken up [cycling](https://ridefortomorrow.redcross.org.uk/fundraising/ccs-410k-for-british-red-cross)!
+Outside work, I love [rowing](https://uk.virginmoneygiving.com/fundraiser-display/showROFundraiserPage?userUrl=KingsW1&isTeam=true), travelling, playing the piano/guitar/singing in a rock band and chasing my favourite bands on tour. 🎼 I sometimes [write poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and take up [cycling](https://ridefortomorrow.redcross.org.uk/fundraising/ccs-410k-for-british-red-cross) challenges!
