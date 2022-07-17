@@ -3,7 +3,7 @@ title: "General-purpose, long-context autoregressive modeling with Perceiver AR"
 authors:
 - Curtis Hawthorne*
 - Andrew Jaegle*
-- Cătălina Cangea*
+- Cătălina Cangea
 - Sebastian Borgeaud
 - Charlie Nash
 - Mateusz Malinowski
