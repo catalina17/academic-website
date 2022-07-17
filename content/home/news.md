@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Mentoring"
-  title = "Proposed and mentored a [project](https://www.logml.ai/projects-1) for 5 students (_Exploiting domain structure for music ML tasks_) at the [LOGML 2022]((https://www.logml.ai/) summer school. Had lots of fun during the week and am excited about the next months, during which we will take the work further!"
+  title = "Proposed and mentored a [project](https://www.logml.ai/projects-1) for 5 students (_Exploiting domain structure for music ML tasks_) at the [LOGML 2022](https://www.logml.ai/) summer school. Had lots of fun during the week and am excited about the next months, during which we will take the work further!"
   date_start = "2022-07-15"
 
 [[item]]
