@@ -36,7 +36,7 @@ tags:
 - VideoNavQA
 - dataset
 - benchmark
-featured: true
+featured: false
 
 links:
 url_pdf: https://arxiv.org/pdf/1908.04950.pdf
