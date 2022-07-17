@@ -5,7 +5,7 @@ authors:
 - Ben Day*
 - Arian R. Jamasb
 - Pietro Liò
-date: "2020-09-29:00:00Z"
+date: "2022-03-25:00:00Z"
 # doi: "https://doi.org/10.17863/CAM.72490"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,8 +18,8 @@ publishDate: "2020-09-29T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under review
-publication_short: _Under review_
+publication: ICLR 2022 Workshop on Geometrical and Topological Representation Learning
+publication_short: _GTRL workshop (ICLR 2022)_
 
 abstract: "Neural Processes (NPs) are powerful and flexible models able to incorporate uncertainty when representing stochastic processes, while maintaining a linear time complexity. However, NPs produce a latent description by aggregating independent representations of context points and lack the ability to exploit relational information present in many datasets. This renders NPs ineffective in settings where the stochastic process is primarily governed by neighbourhood rules, such as cellular automata (CA), and limits performance for any task where relational information remains unused. We address this shortcoming by introducing Message Passing Neural Processes (MPNPs), the first class of NPs that explicitly makes use of relational structure within the model. Our evaluation shows that MPNPs thrive at lower sampling rates, on existing benchmarks and newly-proposed CA and Cora-Branched tasks. We further report strong generalisation over density-based CA rule-sets and significant gains in challenging arbitrary-labelling and few-shot learning setups."
 
@@ -36,7 +36,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/pdf/2009.13895.pdf
+url_pdf: https://openreview.net/pdf?id=r5VkH-Jax9
 # url_code: ''
 # url_dataset: ''
 # url_project: ''
