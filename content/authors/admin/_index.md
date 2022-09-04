@@ -18,11 +18,10 @@ organizations:
   url: "https://deepmind.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Scientist at DeepMind, with a PhD in Machine Learning from the University of Cambridge. Interested in multimodal & sequential learning in real-world scenarios and music ML.
+bio: Research Scientist at DeepMind, with a PhD in Machine Learning from the University of Cambridge. Interested in multimodal learning in real-world scenarios and music ML.
 
 interests:
 - Multimodal learning
-- Sequential learning
 - ML for music & creativity
 - Applying ML to real-world scenarios
 
