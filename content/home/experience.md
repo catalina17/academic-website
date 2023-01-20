@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-27"
   date_end = "2019-08-30"
   description = """
-  Worked on a real-world challenging problem, using and adapting state-of-the-art ML techniques.
+  Worked on a real-world challenging problem - accurately tracking changes in code across different versions - using and adapting state-of-the-art ML techniques. Patent ["_Code change graph node matching with machine learning_"](https://patents.google.com/patent/US11340873B2/en) now available.
   """
   
  [[experience]]
