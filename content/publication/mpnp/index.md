@@ -33,7 +33,7 @@ tags:
 - neural processes
 - meta-learning
 - few-shot learning
-featured: true
+featured: false
 
 links:
 url_pdf: https://openreview.net/pdf?id=r5VkH-Jax9
