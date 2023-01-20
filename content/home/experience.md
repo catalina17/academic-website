@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   title = "Research Scientist"
   company = "DeepMind"
   company_url = "https://deepmind.com/"
-  location = "Cambridge / London, UK"
+  location = "London, UK"
   date_start = "2021-10-04"
   date_end = ""
   description = """
-  Part of the Deep Learning team.
+  Part of the Deep Learning team, working on multimodal learning and generative methods for long-range sequential data. Have so far co-led several research projects, [published](https://arxiv.org/abs/2202.07765) at ICML 2022 and hosted an RS intern whose [work](https://arxiv.org/abs/2211.05039) got accepted to the Foundation Models for Decision Making Workshop (NeurIPS 2022). External mentoring at EEML 2022 (GNN tutorial) and LOGML 2022.
   """
 
 [[experience]]
