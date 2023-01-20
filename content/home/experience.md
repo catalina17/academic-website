@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-15"
   date_end = "2018-09-28"
   description = """
-  Collaboration with Aaron Courville on a visual reasoning project involving a novel benchmark and alternative perspective on EQA-style tasks.
+  Collaboration with Aaron Courville on a visual reasoning project involving a novel benchmark and alternative perspective on EQA-style tasks. [Work](https://arxiv.org/abs/1908.04950) published at BMVC 2019 and presented as a [spotlight talk](https://vigilworkshop.github.io/2019#schedule) at the ViGIL NeurIPS workshop.
   """
 
 [[experience]]
@@ -90,7 +90,7 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = "2021-06-01"
   description = """
-  Master's research projects: _Structure-aware Generation of Molecules in Protein Pockets_ (Pavol Drotar, 2020-21) (92/100), _Machine Unlearning_ (Mukul Rathi, 2020-21) (91/100), _Goal-Conditioned Reinforcement Learning in the Presence of an Adversary_ (Carlos Purves, 2019-20) (87/100), _Representation Learning for Spatio-Temporal Graphs_ (Felix Opolka, 2018-19) (85/100) (presented at [ICLR RLGM](https://rlgm.github.io/papers/)), _Dynamic Temporal Analysis for Graph Structured Data_ (Aaron Solomon, 2018-19) (presented at [ICLR RLGM](https://rlgm.github.io/papers/))
+  Master's research projects: _Structure-aware Generation of Molecules in Protein Pockets_ (Pavol Drotar, 2020-21) (92/100) (presented at [NeurIPS MLSB](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=34375), _Machine Unlearning_ (Mukul Rathi, 2020-21) (91/100), _Goal-Conditioned Reinforcement Learning in the Presence of an Adversary_ (Carlos Purves, 2019-20) (87/100), _Representation Learning for Spatio-Temporal Graphs_ (Felix Opolka, 2018-19) (85/100) (presented at [ICLR RLGM](https://rlgm.github.io/papers/)), _Dynamic Temporal Analysis for Graph Structured Data_ (Aaron Solomon, 2018-19) (presented at [ICLR RLGM](https://rlgm.github.io/papers/))
 
   Computer Science Tripos Part II projects: _Benchmarking Graph Neural Networks using Wikipedia_ (Péter Mernyei, 2019-20, Novel Applications spotlight talk at [ICML GRL+](https://grlplus.github.io/schedule/)), _Multimodal Relational Reasoning for Visual Question Answering_ (Aaron Tjandra, 2019-20), _The PlayStation Reinforcement Learning Environment_ (Carlos Purves, 2018-19) (80/100) (presented at [NeurIPS Deep RL](https://sites.google.com/view/deep-rl-workshop-neurips-2019/)), _Deep Learning for Music Recommendation_ (Andrew Wells, 2017-18) (76/100).
 
