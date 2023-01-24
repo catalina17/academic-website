@@ -75,7 +75,7 @@ email: ""
 # - Visitors
 ---
 
-I am a Research Scientist at [DeepMind](http://deepmind.com), part of the Deep Learning team. In 2021, I completed my PhD at the [University of Cambridge](https://www.cam.ac.uk), supervised by [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). [My PhD thesis](https://doi.org/10.17863/CAM.72490) received no corrections during the viva.
+I am a Research Scientist at [DeepMind](http://deepmind.com), part of the Deep Learning team. In 2021, I completed [my PhD](https://doi.org/10.17863/CAM.72490) (without receiving any corrections) at the [University of Cambridge](https://www.cam.ac.uk), supervised by [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk).
 
 In my undergraduate summer holidays, I gained SWE experience across the stack during internships at Google and Facebook. Later, I also worked in various collaborative research environments: [Mila](http://mila.quebec), [X](http://x.company), [Relation Therapeutics](https://www.relationrx.com/) and [DeepMind](http://deepmind.com). I have also contributed to the wider research community, co-organising the [ViGIL workshop](https://vigilworkshop.github.io/) at [NAACL 2021](https://2021.naacl.org/).
 
