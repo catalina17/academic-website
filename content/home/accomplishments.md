@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "DeepMind"
+  organization_url = "https://www.deepmind.com/"
+  title = "Promotion"
+  date_start = "2023-05-01"
+  description = "After 1 year and 7 months at DeepMind, I am officially a Senior Research Scientist - grateful for the support of my manager and my bright collaborators!"
+
+[[item]]
   organization = "Thirty-seventh International Conference on Machine Learning"
   organization_url = "https://icml.cc/"
   title = "Top Reviewer Certificate of Appreciation"
