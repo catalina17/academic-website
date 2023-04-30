@@ -35,7 +35,7 @@ tags:
 - language grounding
 - meta-learning
 - few-shot learning
-featured: true
+featured: false
 
 links:
 url_pdf: https://doi.org/10.17863/CAM.72490
