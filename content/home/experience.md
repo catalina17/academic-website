@@ -19,14 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior Research Scientist"
+  company = "DeepMind"
+  company_url = "https://deepmind.com/"
+  location = "London, UK"
+  date_start = "2023-05-01"
+  date_end = ""
+  description = """
+  Multimodal learning and generative methods at scale. Additional focus on designing and building datasets and evaluation frameworks.
+  """
+
+[[experience]]
   title = "Research Scientist"
   company = "DeepMind"
   company_url = "https://deepmind.com/"
   location = "London, UK"
   date_start = "2021-10-04"
-  date_end = ""
+  date_end = "2023-04-30"
   description = """
-  Part of the Deep Learning team, working on multimodal learning and generative methods for long-range sequential data. Have so far co-led several research projects, [published](https://arxiv.org/abs/2202.07765) at ICML 2022 and hosted an RS intern whose [work](https://arxiv.org/abs/2211.05039) got accepted to the Foundation Models for Decision Making Workshop (NeurIPS 2022). External mentoring at EEML 2022 (GNN tutorial) and LOGML 2022.
+  Part of the Deep Learning team, working on multimodal learning and generative methods for long-range sequential data. Have so far co-led several research projects, [published](https://arxiv.org/abs/2202.07765) at ICML 2022 and hosted an RS intern whose [work](https://arxiv.org/abs/2211.05039) got accepted to the Foundation Models for Decision Making Workshop (NeurIPS 2022). External mentoring at EEML 2022 and LOGML 2022.
   """
 
 [[experience]]
