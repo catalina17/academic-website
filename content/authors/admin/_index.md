@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://deepmind.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Scientist at DeepMind, with a PhD in Machine Learning from the University of Cambridge. Interested in multimodal learning, long-range generation (audio, music, language) and using these methods in real-world applications.
+bio: Senior Research Scientist at DeepMind, with a PhD in Machine Learning from the University of Cambridge. Interested in multimodal learning, long-range generation (audio, music, language) and using these methods in real-world applications.
 
 interests:
 - Multimodal learning
@@ -75,7 +75,7 @@ email: ""
 # - Visitors
 ---
 
-I am a Research Scientist at [DeepMind](http://deepmind.com). In 2021, I completed [my PhD](https://doi.org/10.17863/CAM.72490) without receiving any corrections at the [University of Cambridge](https://www.cam.ac.uk), supervised by [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk).
+I am a Senior Research Scientist at [DeepMind](http://deepmind.com). In 2021, I completed [my PhD](https://doi.org/10.17863/CAM.72490) without receiving any corrections at the [University of Cambridge](https://www.cam.ac.uk), supervised by [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk).
 
 In my undergraduate summer holidays, I gained SWE experience across the stack during internships at Google and Facebook. Later, I also worked in various collaborative research environments: [Mila](http://mila.quebec), [X](http://x.company), [Relation Therapeutics](https://www.relationrx.com/) and [DeepMind](http://deepmind.com).
 
