@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.deepmind.com/"
   title = "Promotion"
   date_start = "2023-05-01"
-  description = "After 1 year and 7 months at DeepMind, I am officially a Senior Research Scientist - grateful for the support of my manager and my bright collaborators!"
+  description = "After 1 year and 7 months at DeepMind, I am officially a Senior Research Scientist (now at Google DeepMind!) - grateful for the support of my manager and my bright collaborators!"
 
 [[item]]
   organization = "Thirty-seventh International Conference on Machine Learning"
