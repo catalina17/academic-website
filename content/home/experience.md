@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior Research Scientist"
-  company = "DeepMind"
+  company = "Google DeepMind"
   company_url = "https://deepmind.com/"
   location = "London, UK"
   date_start = "2023-05-01"
