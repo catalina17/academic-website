@@ -18,7 +18,7 @@ organizations:
   url: "https://deepmind.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior Research Scientist at Google DeepMind, with a PhD in Machine Learning from the University of Cambridge. Interested in multimodal learning, long-range generation (audio, music, language) and using these methods in real-world applications.
+bio: Senior Research Scientist at Google DeepMind, with a PhD in ML from the University of Cambridge. Focus on multimodal generative models and sequence modelling at scale, data and evals. Motivated by contributing ML-based knowledge, ideas and improvements to real-world systems!
 
 interests:
 - Multimodal learning
