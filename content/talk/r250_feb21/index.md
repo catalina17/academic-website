@@ -17,11 +17,11 @@ abstract: "This short lecture will present three different approaches to graph g
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-02-12T09:30:00Z"
-date_end: "2020-02-12T11:00:00Z"
+date_end: "2021-02-12T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-02-12T00:00:00Z"
+publishDate: "2021-02-12T00:00:00Z"
 
 authors: []
 tags: []
