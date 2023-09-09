@@ -19,18 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Mentoring"
-  title = "Proposed and mentored a [project](https://www.logml.ai/projects-1) for 5 students (_Exploiting domain structure for music ML tasks_) at the [LOGML 2022](https://www.logml.ai/) summer school. Had lots of fun during the week and am excited about the next months, during which we will take the work further!"
-  date_start = "2022-07-15"
-
-[[item]]
-  organization = "Tutorial"
-  title = "Along with [Iulia Duță](https://iuliaduta.github.io/), I delivered a [GNN tutorial](https://github.com/eemlcommunity/PracticalSessions2022) at the [EEML 2022 summer school](https://www.eeml.eu/speakers) - had fun answering all the questions in real-time and hope to attend in-person at future editions. :)"
-  date_start = "2022-07-13"
-  
-[[item]]
   organization = "Publication"
-  title = "Thrilled to announce that our work on autoregressive, modality-agnostic generation with [Perceiver AR](https://www.deepmind.com/publications/perceiver-ar-general-purpose-long-context-autoregressive-generation) got accepted to [ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=17885)! A project very dear to my heart, where I finally got the chance to work on music generation. Here are some [samples](https://storage.googleapis.com/perceiver-ar/index.html)! See you at ICML :)"
-  date_start = "2022-05-14"
+  title = "Our intern's project got [published](https://openreview.net/forum?id=Gbu1bHQhEL) in TMLR - congratulations [Jannik Kossen](https://www.jlko.eu/) for leading this and for a successful internship in summer 2022 at DeepMind!"
+  date_start = "2023-06-30"
 
 +++
