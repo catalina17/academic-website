@@ -77,8 +77,8 @@ email: ""
 
 I am a Senior Research Scientist at [Google DeepMind](http://deepmind.com) with a background in machine learning, computer science and competitive programming. I love doing purposeful work that helps others! My focus is on multimodal and generative models, including data and evals. I've been an audio ML enthusiast since 2015!
 
-Previous SWE experience across the stack during internships at Google and Facebook. Also worked in various collaborative research environments: [Mila](http://mila.quebec), [X](http://x.company), [Relation Therapeutics](https://www.relationrx.com/) and [DeepMind](http://deepmind.com). Since graduate years, I've mentored and taught in academia and industry for 100s of hours.
+My undergraduate internships at Google and Facebook allowed me to gather SWE experience across the stack. I've also interned in collaborative research environments: [Mila](http://mila.quebec), [X](http://x.company), [Relation Therapeutics](https://www.relationrx.com/) and [DeepMind](http://deepmind.com). Since graduate years, I've mentored and taught in academia and industry for 100s of hours.
 
 In 2021, I completed [my PhD](https://doi.org/10.17863/CAM.72490) without receiving any corrections at the [University of Cambridge](https://www.cam.ac.uk), supervised by [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). I also hold a BA and MPhil in Computer Science from Cambridge.
 
-Outside work, I love cycling, [rowing](https://uk.virginmoneygiving.com/fundraiser-display/showROFundraiserPage?userUrl=KingsW1&isTeam=true), travelling, playing/recording the piano/guitar and chasing my favourite bands on tour. 🎼 I sometimes write [poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and lyrics for (ever-)future songs :)
+Outside work, I love cycling, rowing, travelling, playing/recording the piano/guitar and chasing my favourite bands on tour. 🎼 I sometimes write [poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and lyrics for (ever-)future songs :)
