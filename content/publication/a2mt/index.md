@@ -44,7 +44,7 @@ links:
 url_pdf: https://openreview.net/pdf?id=Gbu1bHQhEL
 # url_code: https://github.com/google-research/perceiver-ar
 # url_dataset: ''
- url_project: https://www.deepmind.com/publications/active-acquisition-for-multimodal-temporal-data-a-challenging-decision-making-task
+url_project: https://www.deepmind.com/publications/active-acquisition-for-multimodal-temporal-data-a-challenging-decision-making-task
 # url_slides: ''
 # url_source: ''
 # url_video: 
