@@ -23,4 +23,9 @@ date_format = "Jan 2006"
   title = "Our intern's project got [published](https://openreview.net/forum?id=Gbu1bHQhEL) in TMLR - congratulations [Jannik Kossen](https://www.jlko.eu/) for leading this and for a successful internship in summer 2022 at DeepMind!"
   date_start = "2023-06-30"
 
+[[item]]
+  organization = "Promotion"
+  title = "After 1 year and 7 months at [DeepMind](https://www.deepmind.com/), I am now a Senior Research Scientist! Grateful for the support of my manager and for all my bright collaborators!"
+  date_start = "2023-05-01"
+
 +++
