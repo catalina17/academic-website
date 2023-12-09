@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Launch"
-  title = "Miles beyond thrilled to announce [our work](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) on music generative models - Lyria, Dream Track and Music AI tools. Happy to have contributed to both fan engagement and creative epxloration avenues that Lyria, our core model, is powering - as (1) GDM tech lead for the model quality workstream leading up to the Dream Track launch and (2) core contributor to Lyria and Music AI tools in identifying useful data signals, adding model capabilities and assessing them via human evaluation studies. Absolutely humbled by the fantastic artists who are supporting the Dream Track experiment in YouTube Shorts - check out what the 100 creators have been up to so far [here](https://www.youtube.com/results?search_query=dreamtrackai)!"
+  title = "Miles beyond thrilled to announce [our work](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) on music generative models - Lyria, Dream Track and Music AI tools. Happy to have contributed to both fan engagement and creative epxloration avenues that Lyria, our core model, is powering - as (1) GDM tech lead for the model quality workstream leading up to the Dream Track launch and (2) core contributor to Lyria and Music AI tools in identifying useful data signals, adding model capabilities and assessing them via human evaluation studies. Absolutely humbled by the fantastic artists who are supporting the Dream Track experiment in YouTube Shorts - check out what shorts they and the 100 creators have uploaded so far [here](https://www.youtube.com/results?search_query=dreamtrackai)!"
   date_start = "2023-11-16"
 
 [[item]]
