@@ -15,16 +15,15 @@ role: Senior Research Scientist
 # Organizations/Affiliations
 organizations:
 - name: Google DeepMind
-  url: "https://deepmind.com/"
+  url: "https://http://deepmind.google/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior Research Scientist at Google DeepMind, with a PhD in ML from the University of Cambridge, and inhaler of music :) Focus on multimodal generative models and sequence modelling at scale, data and human evals. Motivated by contributing ML-based knowledge and improvements to real-world systems!
+bio: Senior Research Scientist at Google DeepMind, with a PhD in ML from the University of Cambridge, and inhaler of music :) Focus on generative music models, finding signals in data and human evaluation. Motivated by contributing ML-based knowledge and improvements to real-world systems!
 
 interests:
-- Multimodal learning
-- Long-range generation (audio, music, language)
-- ML tools for creativity
-
+- Music generation
+- ML tools for music creativity
+- Multimodal long-range generation (audio, music, language)
 
 education:
   courses:
@@ -75,7 +74,7 @@ email: ""
 # - Visitors
 ---
 
-I am a Senior Research Scientist at [Google DeepMind](http://deepmind.com) with a background in machine learning, computer science and competitive programming. I love doing purposeful work that helps others! My focus is on multimodal and generative models, including data and evals. I've been an audio ML enthusiast since 2015!
+I am a Senior Research Scientist at [Google DeepMind](http://deepmind.com) with a background in machine learning, computer science and competitive programming. I love doing purposeful work that helps others! My focus is on music generation, finding useful signals in large datasets and human evaluation studies. I've been an audio and music ML enthusiast since 2015 and am thrilled to be [developing tools](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) that enable music enthusiasts of all expertise levels to learn about, engage with and make their own music!
 
 My undergraduate internships at Google and Facebook allowed me to gather SWE experience across the stack. I've also interned in collaborative research environments: [Mila](http://mila.quebec), [X](http://x.company), [Relation Therapeutics](https://www.relationrx.com/) and [DeepMind](http://deepmind.com). Since graduate years, I've mentored and taught in academia and industry for 100s of hours.
 
