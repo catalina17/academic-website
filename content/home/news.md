@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Launch"
+  title = "Miles beyond thrilled to announce [our work](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) on music generative models - Lyria, Dream Track and Music AI tools. Happy to have contributed to both fan engagement and creative epxloration avenues that Lyria, our core model, is powering - as a GDM tech lead for the model quality workstream leading up to the Dream Track launch and as core contributor to Lyria and Music AI tools in identifying useful data signals, adding model capabilities and assessing them via human evaluation studies. Absolutely humbled by the fantastic artists who are supporting the Dream Track experiment in YouTube Shorts - check out what the 100 creators have been up to so far [here](https://www.youtube.com/results?search_query=dreamtrackai)!"
+  date_start = "2023-11-16"
+
+[[item]]
   organization = "Publication"
   title = "Our intern's project got [published](https://openreview.net/forum?id=Gbu1bHQhEL) in TMLR - congratulations [Jannik Kossen](https://www.jlko.eu/) for leading this and for a successful internship in summer 2022 at DeepMind!"
   date_start = "2023-06-30"
