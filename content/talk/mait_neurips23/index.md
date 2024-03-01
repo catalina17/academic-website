@@ -1,5 +1,5 @@
 ---
-title: "Live demo of Music AI Tools"
+title: "Music AI Tools @ NeurIPS"
 event: NeurIPS 2023 - Google DeepMind Research Showcase
 event_url: https://deepmind.events/events/neurips-2023/resources
 
