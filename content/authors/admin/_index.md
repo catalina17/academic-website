@@ -76,8 +76,4 @@ email: ""
 
 I am a Senior Research Scientist at [Google DeepMind](http://deepmind.com) with a background in machine learning, computer science and competitive programming. I love doing purposeful work that helps others! My focus is on music generation, finding useful signals in large datasets and human evaluation studies. I've been an audio and music ML enthusiast since 2015 and am thrilled to be [developing tools](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) that enable music enthusiasts of all expertise levels to learn about, engage with and make their own music!
 
-My undergraduate internships at Google and Facebook allowed me to gather SWE experience across the stack. I've also interned in collaborative research environments: [Mila](http://mila.quebec), [X](http://x.company), [Relation Therapeutics](https://www.relationrx.com/) and [DeepMind](http://deepmind.com). Since graduate years, I've mentored and taught in academia and industry for 100s of hours.
-
-In 2021, I completed [my PhD](https://doi.org/10.17863/CAM.72490) without receiving any corrections at the [University of Cambridge](https://www.cam.ac.uk), supervised by [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and a member of [King's College](https://www.kings.cam.ac.uk). I also hold a BA and MPhil in Computer Science from Cambridge.
-
 Outside work, I love cycling, rowing, travelling, playing/recording the piano/guitar and chasing my favourite bands on tour. 🎼 I sometimes write [poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and lyrics for (ever-)future songs :)
