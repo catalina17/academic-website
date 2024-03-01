@@ -3,13 +3,13 @@ title: "Music AI Tools @ NeurIPS"
 event: NeurIPS 2023 - Google DeepMind Research Showcase
 event_url: https://deepmind.events/events/neurips-2023/resources
 
-location: Virtual
+location: New Orleans Ernest N. Morial Convention Center
 address:
 #  street: 
-  city: London
-#  region: BC
+  city: New Orleans
+  region: LA
 #  postcode: 
-  country: United Kingdom
+  country: United States of America
 
 summary: A live demo of our ongoing work on Music AI tools; more info [here](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/).
 abstract: "Join us for an immersive journey as we unveil our groundbreaking AI music generation models. Discover how they seamlessly weave together captivating vocals, thought-provoking lyrics, and rich background tracks. Let us explore the transformative power of AI in music, empowering creativity and unlocking new artistic horizons."
