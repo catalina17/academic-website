@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Cătălina Cangea
+name: Dr Cătălina Cangea
 
 # Username (this should match the folder name)
 authors:
