@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Scientist
+role: Senior AI researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Google DeepMind
-  url: "https://http://deepmind.google/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Senior AI researcher, most recently co-lead of Generative Music at Google DeepMind, with a PhD in ML from the University of Cambridge, and inhaler of music :) Focus on generative, multimodal and music models, finding signals in data and human evaluation. Motivated by contributing ML-based knowledge and improvements to real-world systems!
