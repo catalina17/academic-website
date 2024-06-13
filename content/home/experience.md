@@ -24,11 +24,11 @@ date_format = "Jan 2006"
   company_url = "https://deepmind.com/"
   location = "London, UK"
   date_start = "2023-05-01"
-  date_end = ""
+  date_end = "2024-06-07"
   description = """
-  2024: One of 3 representatives for the generative music effort. Attributions include soliciting research ideas, planning projects, enabling 2-way communication between leadership and team members, research and product workstreams, maintaining both research and product momentum and running recurring team meetings. Research on model controls and finetuning. Technical and product demos for a variety of stakeholders, internal and external.
+  2024: One of 3 research leads for the generative music effort, working with the other leads to solicit research ideas, plan workstreams, ensure communication between leadership and team members, maintain momentum, and run recurring team meetings. IC work on model controls and finetuning for product use-cases. Regularly delivered demos of our music AI tech to industry stakeholders. The work of our team was presented at various events including Google I/O 2024.
 
-2023: Core contributor to Lyria and Music AI tools. GDM tech lead for one of the Youtube Shorts Dream Track launch workstreams, coordinating with several YouTube teams.
+2023: I was a core contributor to Lyria and Music AI Tools (Sandbox), and GDM tech lead for one of the Youtube Shorts Dream Track workstreams, where I coordinated with several YouTube teams to help our research team hit the quality launch bar and inform leadership product decisions.
   """
 
 [[experience]]
