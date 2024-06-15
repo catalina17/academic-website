@@ -74,6 +74,10 @@ email: ""
 # - Visitors
 ---
 
-I am a Senior AI researcher, most recently co-lead of Generative Music at [Google DeepMind](http://deepmind.com), with 9 years of ML experience and extensive background in computer science and competitive programming. I love doing purposeful work that helps others! My focus has recently been music generation, finding useful signals in large datasets and human evaluation studies. I've lately had the privilege to be [developing tools](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) that enable quicker iterations of musical ideas and finding inspiration in unexpected ways!
+I am a Senior AI researcher, most recently co-lead of Generative Music at [Google DeepMind](http://deepmind.com), with 9 years of ML experience and extensive background in computer science and competitive programming.
+
+I'm motivated by my work having a clear purpose, focus and positive impact in the real world. Music is my greatest passion - I've brought essential contributions to [AI tools](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) that can enhance the creative process of making music and allow quicker exploration of ideas. I was part of the core Lyria and Music AI Sandbox teams and GDM tech lead for the YouTube Dream Track quality workstream.
+
+My PhD at King's College, University of Cambridge was awarded with no thesis corrections. I also earned a First Class BA and an MPhil with Distinction from Cambridge. During my studies, I interned at Big Tech and startup companies, top research labs in academia and industry. Since graduate years, I've mentored and taught for 100s of hours. I love giving demos, talks or lectures and always get positive energy from a room full of people!
 
 Outside work, I love cycling, rowing, travelling, playing/recording the piano/guitar and chasing my favourite bands on tour. 🎼 I sometimes write [poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and lyrics for (ever-)future songs :)
