@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Quantitative Researcher"
   company = "Qube Research & Technologies"
-  company_url = "[https://deepmind.com/](https://www.qube-rt.com/)"
+  company_url = "https://www.qube-rt.com/"
   location = "London, UK"
   date_start = "2024-10-28"
   date_end = ""
