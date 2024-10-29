@@ -21,9 +21,8 @@ organizations:
 bio: Quantitative researcher with 9 years of ML experience, most recently co-lead of Generative Music at Google DeepMind, with a PhD from the University of Cambridge, and inhaler of music :) Motivated by contributing ML-based knowledge and improvements to real-world systems!
 
 interests:
-- Music generation
 - ML tools for music creativity
-- Multimodal long-range generation (audio, music, language)
+- Long-range generation and reasoning
 
 education:
   courses:
