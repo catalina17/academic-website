@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior AI researcher
+role: Quantitative Researcher
 
 # Organizations/Affiliations
 organizations:
