@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Staff Research Scientist"
+  company = "Google DeepMind"
+  company_url = "https://deepmind.google/"
+  location = "London, UK"
+  date_start = "2025-04-28"
+  date_end = ""
+  description = """
+  Generative Media. Responsible development of AI tools for musicians.
+  """
 
 [[experience]]
   title = "Quantitative Researcher"
@@ -25,7 +35,7 @@ date_format = "Jan 2006"
   company_url = "https://www.qube-rt.com/"
   location = "London, UK"
   date_start = "2024-10-28"
-  date_end = ""
+  date_end = "2025-04-26"
   description = """
   """
 
