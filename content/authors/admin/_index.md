@@ -18,10 +18,10 @@ organizations:
   url: "https://deepmind.google/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Staff Research Scientist with a decade of ML experience, former co-lead of Generative Music at Google DeepMind, with a PhD from the University of Cambridge, and inhaler of music :)
+bio: Staff Research Scientist with a decade of ML experience, Lyria post-training and evals lead, with a PhD from the University of Cambridge, and inhaler of music :)
 
 interests:
-- ML tools for music creativity
+- Multimodal ML tools for creativity
 - Long-range generation and reasoning
 
 education:
@@ -73,10 +73,10 @@ email: ""
 # - Visitors
 ---
 
-I am a Staff Research Scientist and former co-lead of Generative Music at [Google DeepMind](http://deepmind.com). I have a decade of ML experience and an extensive background in computer science and competitive programming.
+I am a Staff Research Scientist and Lyria post-training & evals lead at [Google DeepMind](http://deepmind.com). I have a decade of ML experience and an extensive background in computer science and competitive programming.
 
-I like to solve problems in the real world using my ML expertise and thrive in collaborative environments where everyone works towards a shared agenda. Music is my lifelong passion - I've brought essential contributions to [AI tools](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) that support the creative process of making music. I was part of the core Lyria and Music AI Sandbox teams and GDM tech lead for the YouTube Dream Track quality workstream.
+I like to solve problems in the real world using my ML expertise and thrive in collaborative environments where everyone works towards a shared agenda. Music is my lifelong passion - I've brought essential contributions to [AI tools](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) that support the creative process of making music.
 
 My PhD at King's College, University of Cambridge was awarded with no thesis corrections. I also earned a First Class BA and an MPhil with Distinction from Cambridge. During my studies, I interned at Big Tech and startup companies, top research labs in academia and industry. Since graduate years, I've mentored and taught for 100s of hours. I love giving demos, talks or lectures and always get positive energy from a room full of people!
 
-Outside work, I love rowing, travelling, playing rock/jazz guitar and chasing bands on tour. 🎼 I sometimes write [poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and lyrics for future songs :)
+Outside work, I love rowing, travelling, improving my guitar skills and chasing bands on tour. 🎼 I sometimes write [poetry](https://www.deviantart.com/slowfretboarddancer/gallery/all) and lyrics.
